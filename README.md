@@ -1,4 +1,4 @@
-# Soverein Cloud Stack Website
+# Sovereign Cloud Stack Website
 
 ## Local Development Server
 
