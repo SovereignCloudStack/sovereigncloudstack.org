@@ -42,9 +42,9 @@ Die [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de) se
 
 [ScaleUp Technologies GmbH](https://scaleuptech.com) betreibt mit SCS anpassbare Private-Cloud-Umgebungen für Unternehmen.
 
-#### **Ecodigit**
+#### **ECO:DIGIT**
 
-[ecodigit GmbH](https://ecodigit.de) setzt SCS ein, um energieeffiziente Cloud-Lösungen anzubieten.
+[ECO:DIGIT](https://ecodigit.de) setzt SCS ein, um energieeffiziente Cloud-Lösungen anzubieten.
 
 ---
 
