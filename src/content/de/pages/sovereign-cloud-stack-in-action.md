@@ -34,6 +34,10 @@ SCS wird von einer Vielzahl führender Institutionen und Unternehmen eingesetzt,
 
 Die [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de) setzt SCS für sichere und kollaborative Forschungsinfrastrukturen ein.
 
+#### **OSISM GmbH**
+
+[OSISM GmbH](https://osism.tech) verwaltet Public- und Private-Cloud-Umgebungen mit SCS.
+
 #### **plusserver**
 
 [plusserver GmbH](https://plusserver.com) verwendet SCS für DSGVO-konforme Public-Cloud-Dienste in Deutschland.

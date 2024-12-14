@@ -34,6 +34,10 @@ SCS is adopted by a wide range of leading institutions and companies committed t
 
 The [Friedrich-Alexander University Erlangen-Nuremberg](https://www.fau.eu) uses SCS to build secure and collaborative research infrastructures.
 
+#### **OSISM GmbH**
+
+[OSISM GmbH](https://osism.tech) manages public and private cloud environments using SCS.
+
 #### **plusserver**
 
 [plusserver GmbH](https://plusserver.com) utilizes SCS for GDPR-compliant public cloud services in Germany.
