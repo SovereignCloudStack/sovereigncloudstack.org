@@ -46,9 +46,9 @@ The [Friedrich-Alexander University Erlangen-Nuremberg](https://www.fau.eu) uses
 
 [ScaleUp Technologies GmbH](https://scaleuptech.com) operates customizable private cloud environments powered by SCS.
 
-#### **Ecodigit**
+#### **ECO:DIGIT**
 
-[ecodigit GmbH](https://ecodigit.de) employs SCS to deliver energy-efficient cloud solutions.
+[ECO:DIGIT](https://ecodigit.de) employs SCS to deliver energy-efficient cloud solutions.
 
 ---
 
