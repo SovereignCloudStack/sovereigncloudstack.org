@@ -30,6 +30,6 @@ In case of questions
 of stored data or any other privacy policy related request, please contact:
 
 Felix Kronlange-Dammers<br/>
-[kronlage [at] osb [minus] alliance [dot] com](mailto:kronlage@osb-alliance.com)<br/>
+[kronlage-dammers [at] osb [minus] alliance [dot] com](mailto:kronlage-dammers@osb-alliance.com)<br/>
 Open Source Business Alliance e.V.<br/>
 Pariser Platz 6a, 10117 Berlin, Germany
