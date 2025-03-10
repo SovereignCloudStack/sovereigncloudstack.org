@@ -29,7 +29,7 @@ problem has been solved.
 In case of questions
 of stored data or any other privacy policy related request, please contact:
 
-Kurt Garloff<br/>
-[garloff [at] osb [minus] alliance [dot] com](mailto:garloff@osb-alliance.com)<br/>
+Felix Kronlange-Dammers<br/>
+[kronlage-dammers [at] osb [minus] alliance [dot] com](mailto:kronlage-dammers@osb-alliance.com)<br/>
 Open Source Business Alliance e.V.<br/>
 Pariser Platz 6a, 10117 Berlin, Germany
