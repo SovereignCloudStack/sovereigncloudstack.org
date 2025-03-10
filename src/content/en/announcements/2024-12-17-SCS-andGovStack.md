@@ -1,5 +1,14 @@
 ---
-# Unlocking the Power of Cloud Infrastructure: GovStack’s New Building Block Specifications for Cloud Infrastructure
+title: "Unlocking the Power of Cloud Infrastructure: GovStack’s New Building Block Specifications for Cloud Infrastructure"
+authors:
+  - name: "Sovereign Cloud Stack"
+image: "UpdatedVersion.png"
+postType: announcements
+language: en
+date: "2024-12-17"
+slug: govstack_cloud_spec
+template: 'post'
+---
 ## The perfect match: GovStack collaborates with Sovereign Cloud Stack
 
 **Berlin, 2024-12-17**: The [GovStack](https://govstack.global/) initiative provides guidelines and frameworks supporting countries in their digital transformation by provinding them with building blocks (BB) that help to provide digital services to their citizens. To this end, several working groups publish cross-cutting requirements, building blocks and technical specifications. One of the youngest building block is the [Cloud Infrastructure Building Block Specification](https://govstack.gitbook.io/bb-cloud-infrastructure). 
