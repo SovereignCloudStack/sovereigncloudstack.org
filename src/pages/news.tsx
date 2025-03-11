@@ -35,7 +35,9 @@ interface NewsPageData {
                 title: string;
                 date: string;
                 journal: string;
+                conference: string;
                 link: string;
+                video: string;
                 postType: string;
                 slug: string;
                 authors?: Array<{
@@ -179,16 +181,24 @@ export const query = graphql`
                     title
                     date(formatString: "MMMM DD, YYYY")
                     language
-                    slug
+		    if (link != null) {
+			    link
+		    } else {
+                    	slug
+		    }
                     postType
-                    authors {
-                        name
-                        image {
-                            childImageSharp {
-                                gatsbyImageData(layout: CONSTRAINED)
-                            }
-                        }
-                    }
+		    if (postType == "press") {
+			    journal
+		    } else {
+                    	authors {
+                        	name
+            	            image {
+                	            childImageSharp {
+                        	        gatsbyImageData(layout: CONSTRAINED)
+                 	           }
+                        	}
+                    	}
+		    }
                     featuredImage {
                         childImageSharp {
                             gatsbyImageData(layout: CONSTRAINED)
