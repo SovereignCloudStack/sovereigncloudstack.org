@@ -70,12 +70,12 @@ const NewsPage: React.FC<PageProps<NewsPageData, CustomPageContext>> = ({
     }, [showOverlay]);
 
 
-    slug_or_link(slug, link) => {
+    function slug_or_link(slug, link) {
 	if (slug) {
 		return slug;
 	} else {
 		return link;
-	};
+	}
     };
     // Filter posts by type
     const events = posts.nodes.filter(
