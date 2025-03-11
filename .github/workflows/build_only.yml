@@ -3,7 +3,7 @@ name: Gatsby Build
 on:
   workflow_dispatch:
   schedule:
-    - cron: "1 10 * * *"
+    - cron: "10 1 * * *"
   push:
     branches-ignore:
       - main

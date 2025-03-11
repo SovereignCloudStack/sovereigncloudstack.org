@@ -3,7 +3,7 @@ name: Gatsby Build and Deploy to gh-pages-staging branch
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 40 * * *"
+    - cron: "40 0 * * *"
   push:
     branches:
       - staging
