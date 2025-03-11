@@ -72,9 +72,9 @@ const NewsPage: React.FC<PageProps<NewsPageData, CustomPageContext>> = ({
 
     slug_or_link(slug, link) => {
 	if (slug) {
-		slug
+		return slug;
 	} else {
-		link
+		return link;
 	}
     };
     // Filter posts by type
