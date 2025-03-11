@@ -69,6 +69,14 @@ const NewsPage: React.FC<PageProps<NewsPageData, CustomPageContext>> = ({
         };
     }, [showOverlay]);
 
+
+    slug_or_link(slug, link) => {
+	if (slug) {
+		slug
+	} else {
+		link
+	}
+    };
     // Filter posts by type
     const events = posts.nodes.filter(
         (post) => post.frontmatter.postType === 'event'
@@ -181,11 +189,7 @@ export const query = graphql`
                     title
                     date(formatString: "MMMM DD, YYYY")
                     language
-		    if (link) {
-			link
-		    } else {
-                    	slug
-		    }
+		    slug_or_link(slug, link)
                     postType
 		    if (postType == "press") {
 			    journal
