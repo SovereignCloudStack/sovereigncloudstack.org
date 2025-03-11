@@ -1,4 +1,4 @@
-name: Gatsby Build and Deploy to gh-pages branch
+name: Gatsby Build
 
 on:
   workflow_dispatch:
