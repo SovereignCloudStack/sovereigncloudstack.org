@@ -34,6 +34,8 @@ interface NewsPageData {
             frontmatter: {
                 title: string;
                 date: string;
+                journal: string;
+                link: string;
                 postType: string;
                 slug: string;
                 authors?: Array<{
@@ -124,14 +126,14 @@ const NewsPage: React.FC<PageProps<NewsPageData, CustomPageContext>> = ({
                     loadMoreItemsButtonText={
                         page.frontmatter.more_conferences_button
                     }
-                />
+                /> */
                 <NewsSectionList
                     items={press}
                     headline={page.frontmatter.headline_press}
                     language={language}
                     moreButtonText={page.frontmatter.more_button}
                     loadMoreItemsButtonText={page.frontmatter.more_press_button}
-                /> */}
+                /> }
             </Box>
         </Layout>
     );
