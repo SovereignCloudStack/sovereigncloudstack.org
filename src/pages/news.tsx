@@ -75,7 +75,7 @@ const NewsPage: React.FC<PageProps<NewsPageData, CustomPageContext>> = ({
 		return slug;
 	} else {
 		return link;
-	}
+	};
     };
     // Filter posts by type
     const events = posts.nodes.filter(
