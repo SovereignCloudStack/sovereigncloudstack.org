@@ -1,6 +1,15 @@
 ---
-# Digitale Souveränität für Staaten: GovStacks neue Building Block Spezifikationen für Cloud-Infrastruktur
-## Die perfekte Ergänzung: GovStack arbeitet mit Sovereign Cloud Stack zusammen
+title:  "Digitale Souveränität für Staaten: GovStacks neue Building Block Spezifikationen für Cloud-Infrastruktur"
+authors:
+  - name: "Sovereign Cloud Stack"
+image: "UpdatedVersion.png"
+postType: announcements
+language: de
+date: "2024-12-17"
+slug: govstack_cloud_spec
+template: 'post'
+---
+# ## Die perfekte Ergänzung: GovStack arbeitet mit Sovereign Cloud Stack zusammen
 
 **Berlin, den 17.12.2024** Die [GovStack-Initiative](https://govstack.global/) bietet Richtlinien und Rahmenwerke, welche Staaten bei der digitalen Transformation unterstützen. Dafür stellt sie ihnen Bausteine (Building Blocks, BB) zur Verfügung, die ihnen dabei helfen, ihren Bürgern digitale Dienste anzubieten. Zu diesem Zweck veröffentlichen mehrere Arbeitsgruppen übergreifende Anforderungen, Bausteine und technische Spezifikationen. Einer der jüngsten Bausteine ist die [Cloud Infrastructure Building Block Spezification](https://govstack.gitbook.io/bb-cloud-infrastructure).
 
