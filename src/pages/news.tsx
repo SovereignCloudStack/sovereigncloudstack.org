@@ -181,8 +181,8 @@ export const query = graphql`
                     title
                     date(formatString: "MMMM DD, YYYY")
                     language
-		    if (link != null) {
-			    link
+		    if (link) {
+			link
 		    } else {
                     	slug
 		    }
