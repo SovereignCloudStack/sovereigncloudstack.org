@@ -189,19 +189,17 @@ export const query = graphql`
                     title
                     date(formatString: "MMMM DD, YYYY")
                     language
-		    slug_or_link(slug, link)
+		    link
+		    slug
                     postType
-		    if (postType == "press") {
-			    journal
-		    } else {
-                    	authors {
-                        	name
-            	            image {
-                	            childImageSharp {
-                        	        gatsbyImageData(layout: CONSTRAINED)
-                 	           }
-                        	}
-                    	}
+		    journal
+		    authors {
+                       	name
+            	           image {
+                            childImageSharp {
+                       	        gatsbyImageData(layout: CONSTRAINED)
+                           }
+                       	}
 		    }
                     featuredImage {
                         childImageSharp {
