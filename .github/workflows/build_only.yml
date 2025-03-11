@@ -1,12 +1,13 @@
-name: Gatsby Build and Deploy to gh-pages branch
+name: Gatsby Build
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 20 * * *"
+    - cron: "1 10 * * *"
   push:
-    branches:
+    branches-ignore:
       - main
+      - staging
 
 jobs:
   build:
@@ -37,13 +38,3 @@ jobs:
           npm ci
           npm run build
 
-      # Deploy the built Gatsby site to GitHub Pages
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          publish_dir: ./public  # Gatsby builds the site in the 'public' folder
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Verwende den PAT Token für das Deployment
-          force_orphan: true
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'Deploy Gatsby site'

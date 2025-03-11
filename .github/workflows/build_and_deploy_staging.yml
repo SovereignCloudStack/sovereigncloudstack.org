@@ -1,12 +1,12 @@
-name: Gatsby Build and Deploy to gh-pages branch
+name: Gatsby Build and Deploy to gh-pages-staging branch
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 20 * * *"
+    - cron: "0 40 * * *"
   push:
     branches:
-      - main
+      - staging
 
 jobs:
   build:
@@ -47,3 +47,4 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: 'Deploy Gatsby site'
+          publish_branch: gh-pages-staging
