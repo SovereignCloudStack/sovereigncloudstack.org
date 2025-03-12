@@ -182,7 +182,9 @@ gatsby build
 ### Deploying
 
 1. Ensure the `gh-pages` branch is up to date.
-2. The page is currently built with the `build_and_deploy.yml` workflow but not yet deployed somewhere which still has to be defined.
+2. The page is currently built with the `build_and_deploy.yml` workflow and published on <https://sovereigncloudstack.org/>.
+3. There is a `build_only.yml` job that works on pushes to the branches and does a gatsby build. This GH action thus avoids breakage.
+4. The `staging` branch has a `build_and_deploy_staging.yml` job that builds and publishes to the `gh-pages-staging` branch which is published (with a few minutes delay) on <https://staging.sovereigncloudstack.org/>. Use this to test more complex changes or to validate visual impressions.
 
 ---
 
@@ -234,7 +236,7 @@ The `gatsby-node.ts` file dynamically creates pages using Markdown files.
 
 ## 10. Background Animation
 
-The **background animation** visually represents the concept described on the landing page: a **cloud platform** that is  connected, standardized, and collaboratively built. The animation reflects this vision through interconnected clouds of particles, symbolizing integration, interoperability, and a dynamic global community.
+The **background animation** visually represents the concept described on the landing page: a **cloud platform** that is  connected, standardized, and collaboratively built. The animation reflects this vision through interconnected clouds of particles, symbolizing integration, interoperability, and a dynamic global community. It can be switched off by users that want to avoid increased power consumption on e.g. mobile devices.
 
 ### Key Features
 
@@ -287,7 +289,8 @@ const Layout = () => {
 ### Pull Requests
 
 1. Create a feature branch.
-2. Submit a PR with detailed changes.
+2. Submit a PR with detailed changes. Ensure DCO and build checks (and other CI tests) pass before asking for reviews.
+3. Optionally do cherry-picks or merges into the `staging` branch for testing.
 
 ---
 
