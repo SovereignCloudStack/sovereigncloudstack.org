@@ -41,6 +41,7 @@ template: 'post'
 - IPCEI-CIS, 8ra, NeoNephos ... initiatives may well connect and build upon SCS standards and SCS technologies to deliver the next generation in the future.
 - Likewise, openDesk integrates existing, proven open source solutions into a comprehensive workplace solution. While it needs further growth, it is already a proven and capable solution.
 - SCS and openDesk work well together and are a good starting point for the core of a successful EuroStack / GermanStack.
+- ZenDiS has done an enormous job getting openCode off the ground - the ecosystem needs to wake up and follow with greater adoption now.
 - Other OSS building blocks (such as e.g. from the international GovStack initiative) can contribute to this as well.
 
 ## 6. Not every company that talks about their support of digital sovereignty may have the best interests of European citizens and businesses in mind.
