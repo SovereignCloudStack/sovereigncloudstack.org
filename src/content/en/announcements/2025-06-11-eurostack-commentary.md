@@ -53,7 +53,7 @@ template: 'post'
 - Public money, public code: Software that is developed with public money should be Open Source, so it can be trusted, reused, adapted, maintained, resulting in higher cost-efficiency and more control.
 - Regulation is only as effective as compliant solutions are available; project funding may help to create compliant solutions. This has no negative impact on competition if the solutions are open.
 - While procurement must put the technical needs at the first place, the learnings of funded projects and the availability of solutions emerging from them must not be disregarded. Some non-functional requirements around security or sovereignty also may not be negotiable.
-- The procurement power of the public sector is significant and can significantly contribute to the sustainable availability of sovereign solutions.
+- The procurement power of the public sector is significant and should contribute to the economic viability of sovereign solutions and thus ensure their sustainable availability.
 
 ## 8. Technology innovation is iterative and needs intense and open exchange between regulation & standardization, technology development, validation, operation!
 - No waterfall design approach but cross-functional teams with a pronounced learning culture are needed. Innovation is not possible if you can not tolerate errors and failures. Innovation requires risk-taking and exploring multiple avenues.

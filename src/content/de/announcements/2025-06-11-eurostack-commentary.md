@@ -53,7 +53,7 @@ template: 'post'
 - Öffentliches Geld, öffentlicher Code: Software, die mit öffentlichen Geldern entwickelt wird, sollte Open Source sein, damit sie vertrauenswürdig ist, wiederverwendet, angepasst und gewartet werden kann, was zu einer höheren Kosteneffizienz und mehr Kontrolle führt.
 - Die Regulierung ist nur so wirksam, wie konforme Lösungen verfügbar sind; Projektfinanzierung kann dazu beitragen, konforme Lösungen zu schaffen. Dies hat keine negativen Auswirkungen auf den Wettbewerb, wenn die Lösungen offen sind.
 - Auch wenn bei der Beschaffung die technischen Erfordernisse an erster Stelle stehen müssen, dürfen die Erkenntnisse aus finanzierten Projekten und die Verfügbarkeit von Lösungen, die sich daraus ergeben, nicht außer Acht gelassen werden. Einige nichtfunktionale Anforderungen in Bezug auf Sicherheit oder Souveränität können ebenfalls nicht verhandelbar sein.
-- Die Beschaffungsmacht des öffentlichen Sektors ist beträchtlich und kann nachhaltig zur Verfügbarkeit souveräner Lösungen beitragen.
+- Die Beschaffungsmacht des öffentlichen Sektors ist beträchtlich und sollte zur wirtschaftlichen Tragfähigkeit der souveränen Lösungen beitragen um eine nachhalte Verfügbarkeit zu gewährleisten.
 
 ## 8. Technologische Innovation ist iterativ und erfordert einen intensiven und offenen Austausch zwischen Regulierung und Normung, Technologieentwicklung, Validierung und Betrieb!
 - Kein Wasserfall-Konzept, sondern funktionsübergreifende Teams mit einer ausgeprägten Lernkultur sind erforderlich. Innovation ist nicht möglich, wenn man keine Fehler und Misserfolge tolerieren kann. Innovation erfordert Risikobereitschaft und das Ausloten verschiedener Wege.
