@@ -17,7 +17,7 @@ template: 'post'
 
 ## 2. Data sovereignty is not to be mistaken for digital sovereignty
 1. Plenty of proprietary offerings disguise their offering as being digital sovereign, while at best offering data sovereignty only. The term sovereign-washing comes to mind, since fulfilling the requirements of GDPR and alike is part of digital sovereignty, one of its dimensions, but not its only.
-2. A platform not built upon open standards, without open APIs will neither offer provider switching capabilities nor allow federationnor offer the option of cloud repatriation but instead a full reliance on continuity by the single provider.
+2. A platform not built upon open standards, without open APIs will neither offer provider switching capabilities nor allow federation nor offer the option of cloud repatriation but instead a full reliance on continuity by the single provider.
 3. Proprietary Cloud platforms operated by on-prem or datacenters not belonging to the provider or vendor, still rely on updates and continuity by the single vendor.
 
 ## 3. Creating one European hyperscaler ("cloud airbus") is *not* a desirable goal!
