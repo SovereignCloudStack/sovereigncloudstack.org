@@ -40,7 +40,7 @@ Das Forum SCS-Standards und die Entwicklung des SCS werden von einer Vielzahl an
 - [secunet Security Networks AG](https://secunet.com)
 - [STACKXPERTS GmbH](https://stackxperts.com)
 - [SysEleven GmbH](https://syseleven.de)
-- [Syself GmbH](https://syself.de)
+- [Syself GmbH](https://syself.com)
 - [Wavecon GmbH](https://wavecon.de)
 - [Yorizon GmbH](https://yorizon.com)
 
