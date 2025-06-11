@@ -16,7 +16,7 @@ template: 'post'
 4. *Kompetenz und Transparenz*: Betriebserfahrungen werden auf transparente Weise weitergegeben, so dass mittelgroße Unternehmen ihre eigene Infrastruktur erfolgreich betreiben (und zusammenführen) können.
 
 ## 2. Datenhoheit ist nicht zu verwechseln mit digitaler Souveränität
-1. Viele proprietäre Angebote tarnen ihr Angebot als digital souverän, bieten aber bestenfalls Datenhoheit. Der Begriff „Souveränitätsfärberei“ kommt in den Sinn, da die Erfüllung der Anforderungen der GDPR und ähnlicher Vorschriften Teil der digitalen Souveränität ist, eine ihrer Dimensionen, aber nicht ihre einzige.
+1. Viele proprietäre Angebote tarnen ihr Angebot als digital souverän, bieten aber bestenfalls Datenhoheit. Der Begriff „sovereign-washing“ kommt in den Sinn, da die Erfüllung der Anforderungen der GDPR und ähnlicher Vorschriften Teil der digitalen Souveränität ist, eine ihrer Dimensionen, aber nicht ihre einzige.
 2. Eine Plattform, die nicht auf offenen Standards aufbaut und keine offenen APIs hat, bietet weder die Möglichkeit, den Anbieter zu wechseln, noch die Option, eine Cloud selbst zu betreiben, sondern ist vollständig auf die langfristig Verfügbarkeit des Anbieters angewiesen.
 3. Proprietäre Cloud-Plattformen, die On-Prem- oder in lokalen Rechenzentren betrieben werden, die nicht zum Plattformanbieter gehören, sind nach wie vor auf Updates und Kontinuität durch den Anbieter angewiesen.
 
@@ -46,7 +46,7 @@ template: 'post'
 
 ## 6. Nicht jedes Unternehmen, das von seiner Unterstützung der digitalen Souveränität spricht, hat möglicherweise die besten Interessen der europäischen Bürger und Unternehmen im Sinn.
 - Einige haben nicht einmal ein umfassendes Verständnis des Begriffs der digitalen Souveränität.
-- Da die digitale Souveränität zu einem heißen Thema geworden ist, wird viel Marketing betrieben, um große Unternehmen anzulocken; wir beobachten viel Lärm und Souveränitätsfärberei.
+- Da die digitale Souveränität zu einem heißen Thema geworden ist, wird viel Marketing betrieben, um große Unternehmen anzulocken; wir beobachten viel Lärm und „sovereign-washing“.
 - Es gibt Unternehmen und Non-Profit-Organisationen, die seit Jahren an Lösungen arbeiten und sich konsequent für Lösungen einsetzen, die ihre Nutzer wirklich befähigen, weniger abhängig von einzelnen Anbietern zu werden. Diesen sollten wir mehr Vertrauen schenken als den neuen "Befürwortern" der digitalen Souveränität (auch wenn letztere größer sind) und sie in den Mittelpunkt eines Cloud-Netzwerks stellen.
 
 ## 7. Regulierung, Projektfinanzierung und Beschaffung müssen aufeinander abgestimmt werden, um Wirkung zu erzielen!
