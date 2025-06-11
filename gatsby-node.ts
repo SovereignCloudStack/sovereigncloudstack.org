@@ -7,7 +7,7 @@ interface MarkdownNode {
         template: string; // staticPage, post
         slug: string;
         language: string;
-        postType?: string; // announcements, event, blog
+        postType?: string; // announcements, event, blog, press
     };
 }
 
