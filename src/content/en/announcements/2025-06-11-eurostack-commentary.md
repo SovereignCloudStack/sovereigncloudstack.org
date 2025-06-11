@@ -18,19 +18,19 @@ template: 'post'
 ## 2. Data sovereignty is not to be mistaken for digital sovereignty
 1. Plenty of proprietary offerings disguise their offering as being digital sovereign, while at best offering data sovereignty only. The term sovereign-washing comes to mind, since fulfilling the requirements of GDPR and alike is part of digital sovereignty, one of its dimensions, but not its only.
 2. A platform not built upon open standards, without open APIs will neither offer provider switching capabilities nor allow federation nor offer the option of cloud repatriation but instead a full reliance on continuity by the single provider.
-3. Proprietary Cloud platforms operated by on-prem or datacenters not belonging to the provider or vendor, still rely on updates and continuity by the single vendor.
+3. Proprietary Cloud platforms operated by on-prem or data centers not belonging to the provider or vendor, still rely on updates and continuity by the single vendor.
 
 ## 3. Creating one European hyperscaler ("cloud airbus") is *not* a desirable goal!
 1. The dependencies would be just as strong as they are on the existing (US/CN) hyperscalers, we'd have a monopoly
 2. While legal leverage might be a bit better, and a bit more value creation happens inside Europe, a monopoly won't likely deliver the quality, the innovation and cost efficiency that is desirable
-3. Multiple European providers competing with each other to become THE european hyperscaler contradicts the idea of collaboration within Europe by which leverage on value-creation is highly increased.
+3. Multiple European providers competing with each other to become THE European hyperscaler contradicts the idea of collaboration within Europe by which leverage on value-creation is highly increased.
 
 ## 4. Europe's industry is strong and resilient because of its highly distributed and specialized nature (with lots of small- and medium-sized businesses), we need to structure German/EuroStack along this strength!
 1. For platform markets, this model however is at a disadvantage due to network effects, favoring "the-winner-takes-it-all" outcomes.
 2. The disadvantage can be overcome by collaboration on standardization, creating a network of highly interoperable clouds.
 	* This needs meaningful open standards and strong and highly skilled standards management in the joint interop standardization group.
 3. Open Source allows to collaborate on sharing implementation efforts and innovation as well.
-4. Open Operations allows to collaborate on building operational skills (helping to overcome shortage of skilled personell).
+4. Open Operations allows to collaborate on building operational skills (helping to overcome shortage of skilled personnel).
 
 ## 5. We don't need to wait for yet another initiative to be completed, we can start today with what we have!
 - The majority of Open Source cloud providers are using highly similar technology.
@@ -52,7 +52,7 @@ template: 'post'
 ## 7. Aligning regulation, project funding and procurement is needed for impact!
 - Public money, public code: Software that is developed with public money should be Open Source, so it can be trusted, reused, adapted, maintained, resulting in higher cost-efficiency and more control.
 - Regulation is only as effective as compliant solutions are available; project funding may help to create compliant solutions. This has no negative impact on competition if the solutions are open.
-- While procurement must put the technical needs at the first place, the learnings of funded projects and the availability of solutions emerging from them must not be disregarded. Some non-functional requirements around security or sovereignty also may not be negotiable.
+- While procurement must put the technical needs at the first place, the findings of funded projects and the availability of solutions emerging from them must not be disregarded. Some non-functional requirements around security or sovereignty also may not be negotiable.
 - The procurement power of the public sector is significant and should contribute to the economic viability of sovereign solutions and thus ensure their sustainable availability.
 
 ## 8. Technology innovation is iterative and needs intense and open exchange between regulation & standardization, technology development, validation, operation!
