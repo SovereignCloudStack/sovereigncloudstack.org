@@ -27,20 +27,23 @@ Since January 1, 2025, the development and quality assurance of the Sovereign Cl
 
 ### **Our Partners in the Network**
 
-The Forum SCS-Standards and the development of SCS are supported by a wide range of partners. The founding members of the forum include (in alphabetical order):
+The Forum SCS-Standards and the development of SCS are supported by a wide range of partners. The members of the forum include (in alphabetical order):
 
 - [artcodix GmbH](https://artcodix.de)
 - [B1-Systems GmbH](https://b1-systems.de)
 - [Cloud&Heat Technologies GmbH](https://cloudandheat.com)
 - [Dataport AöR](https://dataport.de)
 - [dNation, s.r.o.](https://dnation.tech)
+- [ITDZ Berlin AöR](https://www.itdz-berlin.de)
 - [OSISM GmbH](https://osism.tech)
 - [plusserver GmbH](https://plusserver.com)
+- S7n Cloud Services GmbH
 - [ScaleUp Technologies GmbH & Co. KG](https://scaleuptech.com)
 - [secunet Security Networks AG](https://secunet.com)
 - [STACKXPERTS GmbH](https://stackxperts.com)
 - [SysEleven GmbH](https://syseleven.de)
 - [Syself GmbH](https://syself.com)
+- [UhuruTec AG](https://uhurutec.com)
 - [Wavecon GmbH](https://wavecon.de)
 - [Yorizon GmbH](https://yorizon.com)
 

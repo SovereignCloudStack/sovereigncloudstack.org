@@ -27,20 +27,23 @@ Seit dem 1. Januar 2025 wird die Entwicklung und Qualitätssicherung des Soverei
 
 ### **Unsere Partner im Netzwerk**
 
-Das Forum SCS-Standards und die Entwicklung des SCS werden von einer Vielzahl an Partnern getragen. Zu den Gründungsmitgliedern des Forums gehören (alphabetisch):
+Das Forum SCS-Standards und die Entwicklung des SCS werden von einer Vielzahl an Partnern getragen. Zu den Mitgliedern des Forums gehören (alphabetisch):
 
 - [artcodix GmbH](https://artcodix.de)
 - [B1-Systems GmbH](https://b1-systems.de)
 - [Cloud&Heat Technologies GmbH](https://cloudandheat.com)
 - [Dataport AöR](https://dataport.de)
 - [dNation, s.r.o.](https://dnation.tech)
+- [ITDZ Berlin AöR](https://www.itdz-berlin.de)
 - [OSISM GmbH](https://osism.tech)
 - [plusserver GmbH](https://plusserver.com)
+- S7n Cloud Services GmbH
 - [ScaleUp Technologies GmbH & Co. KG](https://scaleuptech.com)
 - [secunet Security Networks AG](https://secunet.com)
 - [STACKXPERTS GmbH](https://stackxperts.com)
 - [SysEleven GmbH](https://syseleven.de)
 - [Syself GmbH](https://syself.com)
+- [UhuruTec AG](https://uhurutec.com)
 - [Wavecon GmbH](https://wavecon.de)
 - [Yorizon GmbH](https://yorizon.com)
 
