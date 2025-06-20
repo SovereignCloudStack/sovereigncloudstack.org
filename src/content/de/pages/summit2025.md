@@ -15,7 +15,9 @@ Die Veranstaltung startet um 12 Uhr und geht bis in den Abend.
 ### Location
 
 Palisa
-Palisadenstraße 48 
+
+Palisadenstraße 48
+
 10243 Berlin
 
 ### Anmeldung
