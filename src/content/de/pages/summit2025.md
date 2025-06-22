@@ -14,11 +14,9 @@ Die Veranstaltung startet um 12 Uhr und geht bis in den Abend.
 
 ### Location
 
-Palisa
-
-Palisadenstraße 48
-
-10243 Berlin
+Palisa  
+Palisadenstraße 48  
+10243 Berlin  
 
 ### Anmeldung
 
@@ -29,7 +27,7 @@ Eine Anmeldung für den Summit ist [hier](https://events.sovereigncloudstack.org
 _Call for Papers endet am 1.August 2025_
 
 Gestalten Sie die Zukunft offener digitaler Ökosysteme mit? Haben Sie Ideen, Erfahrungen oder Innovationen im Bereich Cloud Computing, von denen andere lernen können? Dann freuen wir uns auf Ihren Beitrag!
-Ab sofort nehmen wir Vorschläge für Vorträge und Sessions beim SCS Summit 2025 entgegen – unter dem Motto „XXX“ suchen wir Beiträge, die zum Nachdenken anregen, neue Sichtweisen eröffnen und den Dialog fördern.
+Ab sofort nehmen wir Vorschläge für Vorträge und Sessions beim SCS Summit 2025 entgegen – unter dem Motto „Standardization, Collaboration, Continuity“ suchen wir Beiträge, die zum Nachdenken anregen, neue Sichtweisen eröffnen und den Dialog fördern.
 Wir freuen uns auf Einreichungen von Praktiker:innen, Entwickler:innen, Verwaltungsakteur:innen, Forschenden und Community-Leads. Ob Best Practices, inspirierende Success Stories oder frische Ideen mit Blick auf offene digitale Innovation – stellen Sie Ihr Thema der SCS-Community vor und bringen Sie sich aktiv ein.
 
 _Machen Sie mit_: Präsentieren Sie Ihre Themen, Erfahrungen und Visionen auf der SCS Summit 2025!
