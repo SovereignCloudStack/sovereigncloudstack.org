@@ -39,16 +39,16 @@ _Machen Sie mit_: Präsentieren Sie Ihre Themen, Erfahrungen und Visionen auf de
 Reichen Sie Ihren Vorschlag bis spätestens 01. August 2025 per Mail an scs-summit@osb-alliance.com ein.
 Bitte geben Sie dabei an:
 
-• Titel und kurze Beschreibung
-• Angaben zur Person / zum Team und zum Unternehmen
-• Bevorzugtes Format
-• Technische oder barrierefreie Anforderungen
+- Titel und kurze Beschreibung
+- Angaben zur Person / zum Team und zum Unternehmen
+- Bevorzugtes Format
+- Technische oder barrierefreie Anforderungen
 
 Warum mitmachen?
 
-• Teilen Sie Ihr Wissen mit einer engagierten Fach-Community
-• Vernetzen Sie sich mit Expert:innen und Entscheider:innen
-• Gestalten Sie die digitale Zukunft in Europa aktiv mit
+- Teilen Sie Ihr Wissen mit einer engagierten Fach-Community
+- Vernetzen Sie sich mit Expert:innen und Entscheider:innen
+- Gestalten Sie die digitale Zukunft in Europa aktiv mit
 
 Bei Fragen melden Sie sich gerne unter scs-summit@osb-alliance.com. Wir freuen uns auf Ihre Ideen!
 
