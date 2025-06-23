@@ -5,7 +5,7 @@ slug: 'summit2025'
 template: 'staticPage'
 ---
 
-### Standardization, Collaboration, Continuity
+### Standardization. Collaboration. Continuity.
 
 The SCS Summit is the main annual event for the Sovereign Cloud Stack (SCS) community.
 
@@ -30,7 +30,7 @@ _Call for Papers until 1st of August 2025_
 
 Are you shaping the future of open digital ecosystems? Do you have ideas, experience or innovations in the field of cloud computing that others can learn from? Then we look forward to your contribution!
 
-We are now accepting proposals for presentations and sessions at the SCS Summit 2025 - under the motto “*Standardization, Collaboration, Continuity*”, we are looking for contributions that are thought-provoking, open up new perspectives and promote dialog.
+We are now accepting proposals for presentations and sessions at the SCS Summit 2025 - under the motto “*Standardization. Collaboration. Continuity.*”, we are looking for contributions that are thought-provoking, open up new perspectives and promote dialog.
 
 We look forward to receiving submissions from practitioners, developers, administrators, researchers and community leads. Whether best practices, inspiring success stories or fresh ideas with a view to open digital innovation - present your topic to the SCS community and get actively involved.
 
