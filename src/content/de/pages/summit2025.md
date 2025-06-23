@@ -5,8 +5,6 @@ slug: 'summit2025'
 template: 'staticPage'
 ---
 
-## SCS Summit 2025
-
 ### Standardization, Collaboration, Continuity
 
 Der SCS Summit ist die jährliche Hauptveranstaltung der Community rund um den Sovereign Cloud Stack (SCS).
