@@ -12,7 +12,7 @@ template: 'staticPage'
 Der SCS Summit ist die jährliche Hauptveranstaltung der Community rund um den Sovereign Cloud Stack (SCS).
 Hier treffen sich Akteur:innen aus der Praxis, Entwicklung, Verwaltung, Forschung und der Community, um Erfahrungen zu Cloud Computing und digitaler Souveränität auszutauschen. Der Summit fördert praxisnahen Wissenstransfer, Vernetzung und die gemeinsame Weiterentwicklung souveräner Cloud-Infrastrukturen.
 
-Sichern Sie sich Jetzt ihr [kostenfreies Ticket](https://events.sovereigncloudstack.org/scs-summit-2025/)!
+## Sichern Sie sich Jetzt ihr [kostenfreies Ticket](https://events.sovereigncloudstack.org/scs-summit-2025/)!
 
 ### Wann und Wo
 
