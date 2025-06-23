@@ -5,16 +5,21 @@ slug: 'summit2025'
 template: 'staticPage'
 ---
 
-## SCS Summit 2025
+#### Standardization, Collaboration, Continuity
 
-### Where and when
+The SCS Summit is the main annual event for the Sovereign Cloud Stack (SCS) community.
+This is where players from practice, development, administration, research and the community meet to exchange experiences on cloud computing and digital sovereignty. The summit promotes practical knowledge transfer, networking and the joint further development of sovereign cloud infrastructures.
+
+## Register for your [free ticket](https://events.sovereigncloudstack.org/scs-summit-2025/)!
+
+## Where and when
 
 The SCS Summit 2025 will take place on 24th of September at the Palisa in Berlin.
-The event will start at noon and will go until the evening.
+The event will start at 10:00 and will go until the evening.
 
 ### Location
 
-Palisa  
+[Palisa](https://www.palisa.de)  
 Palisadenstraße 48  
 10243 Berlin  
 
@@ -43,6 +48,10 @@ Please include:
 - Details of the person / team and company
 - Preferred format
 - Technical or accessibility requirements
+
+### Secure your free Ticket!
+
+The registration for the summit is [here](https://events.sovereigncloudstack.org/scs-summit-2025/).
 
 Why participate?
 
