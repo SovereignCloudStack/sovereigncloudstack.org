@@ -20,9 +20,9 @@ Die Veranstaltung startet um 10:00 Uhr und geht bis in den Abend.
 
 ### Wo
 
-[Palisa](https://www.palisa.de)
-Palisadenstraße 48
-10243 Berlin
+[Palisa](https://www.palisa.de)  
+Palisadenstraße 48  
+10243 Berlin  
 
 ### Programm - Call for Papers
 
