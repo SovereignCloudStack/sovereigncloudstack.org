@@ -11,7 +11,7 @@ Der SCS Summit ist die jährliche Hauptveranstaltung der Community rund um den S
 
 Hier treffen sich Akteur:innen aus der Praxis, Entwicklung, Verwaltung, Forschung und der Community, um Erfahrungen zu Cloud Computing und digitaler Souveränität auszutauschen. Der Summit fördert praxisnahen Wissenstransfer, Vernetzung und die gemeinsame Weiterentwicklung souveräner Cloud-Infrastrukturen.
 
-## Sichern Sie sich jetzt ihr [kostenfreies Ticket](https://events.sovereigncloudstack.org/scs-summit-2025/)!
+## Sichern Sie sich jetzt Ihr [kostenfreies Ticket](https://events.sovereigncloudstack.org/scs-summit-2025/)!
 
 ### Wann
 
@@ -26,7 +26,7 @@ Palisadenstraße 48
 
 ### Programm - Call for Papers
 
-_Call for Papers endet am 1.August 2025_
+_Call for Papers endet am 1. August 2025_
 
 Gestalten Sie die Zukunft offener digitaler Ökosysteme mit? Haben Sie Ideen, Erfahrungen oder Innovationen im Bereich Cloud Computing, von denen andere lernen können? Dann freuen wir uns auf Ihren Beitrag!
 
@@ -34,7 +34,7 @@ Ab sofort nehmen wir Vorschläge für Vorträge und Sessions beim SCS Summit 202
 
 Ob Best Practices, inspirierende Success Stories oder frische Ideen mit Blick auf offene digitale Innovation – stellen Sie Ihr Thema der SCS Community vor und bringen Sie sich aktiv ein.
 
-_Machen Sie mit_: Präsentieren Sie Ihre Themen, Erfahrungen und Visionen auf der SCS Summit 2025!
+_Machen Sie mit_: Präsentieren Sie Ihre Themen, Erfahrungen und Visionen auf dem SCS Summit 2025!
 
 #### Teilnahme am CfP
 
@@ -46,7 +46,7 @@ Bitte geben Sie dabei an:
 - Bevorzugtes Format
 - Technische oder barrierefreie Anforderungen
 
-### Hier sichern Sie sich ihr kostenfreies Ticket!
+### Hier sichern Sie sich Ihr kostenfreies Ticket!
 
 Eine Anmeldung für den Summit ist [hier](https://events.sovereigncloudstack.org/scs-summit-2025/) kostenfrei möglich.
 
