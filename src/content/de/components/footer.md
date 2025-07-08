@@ -11,7 +11,7 @@ columns:
             url: 'https://github.com/SovereignCloudStack'
             icon: '/icons/github-white.svg'
           - label: 'LinkedIn'
-            url: 'https://www.linkedin.com/products/sovereigncloudstack-sovereign-cloud-stack'
+            url: 'https://www.linkedin.com/company/sovereigncloudstack'
             icon: '/icons/linkedin-white.svg'
           - label: 'Matrix'
             url: 'https://matrix.to/#/!TiDqlLmEUaXqTemaLc:matrix.org?via=matrix.org'
