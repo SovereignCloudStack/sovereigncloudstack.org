@@ -36,7 +36,7 @@ Ob Best Practices, inspirierende Success Stories oder frische Ideen mit Blick au
 
 _Machen Sie mit_: Präsentieren Sie Ihre Themen, Erfahrungen und Visionen auf dem SCS Summit 2025!
 
-#### Teilnahme am CfP
+#### Teilnahme am Call for Papers
 
 Reichen Sie Ihren Vorschlag bis spätestens 01. August 2025 per Mail an scs-summit@osb-alliance.com ein.
 Bitte geben Sie dabei an:
@@ -44,6 +44,7 @@ Bitte geben Sie dabei an:
 - Titel und kurze Beschreibung
 - Angaben zur Person / zum Team und ggf. zum Unternehmen
 - Bevorzugtes Format
+- Gewünschter zeitlicher Umfang
 - Technische oder barrierefreie Anforderungen
 
 ### Hier sichern Sie sich Ihr kostenfreies Ticket!

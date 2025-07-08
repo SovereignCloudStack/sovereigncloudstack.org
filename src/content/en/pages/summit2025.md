@@ -36,7 +36,7 @@ We look forward to receiving submissions from practitioners, developers, adminis
 
 _Join in_: Present your topics, experiences and visions at the SCS Summit 2025!
 
-#### Participating in the CfP
+#### Participating in the Call for Papers
 
 Submit your proposal by e-mail to scs-summit@osb-alliance.com by August 01, 2025 at the latest.
 Please include:
@@ -44,6 +44,7 @@ Please include:
 - Title and short description
 - Details of the person / team and company
 - Preferred format
+- Desired time frame
 - Technical or accessibility requirements
 
 ### Secure your free Ticket!
