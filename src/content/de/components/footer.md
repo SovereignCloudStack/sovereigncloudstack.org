@@ -4,6 +4,9 @@ component: footer
 columns:
     - title: ''
       links:
+          - label: 'Mastodon'
+            url: 'https://social.osb-alliance.de/@SCS'
+            icon: '/icons/mastodon-white.svg'
           - label: 'YouTube'
             url: 'https://www.youtube.com/@sovereigncloudstack'
             icon: '/icons/youtube-white.svg'
