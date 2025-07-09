@@ -24,9 +24,9 @@ Die Veranstaltung startet um 10:00 Uhr und geht bis in den Abend.
 Palisadenstraße 48  
 10243 Berlin  
 
-### Programm - Call for Papers
+### Programm - Call for Participation
 
-_Call for Papers endet am 1. August 2025_
+_Call for Participation endet am 1. August 2025_
 
 Gestalten Sie die Zukunft offener digitaler Ökosysteme mit? Haben Sie Ideen, Erfahrungen oder Innovationen im Bereich Cloud Computing, von denen andere lernen können? Dann freuen wir uns auf Ihren Beitrag!
 
@@ -36,7 +36,7 @@ Ob Best Practices, inspirierende Success Stories oder frische Ideen mit Blick au
 
 _Machen Sie mit_: Präsentieren Sie Ihre Themen, Erfahrungen und Visionen auf dem SCS Summit 2025!
 
-#### Teilnahme am Call for Papers
+#### Teilnahme am Call for Participation
 
 Reichen Sie Ihren Vorschlag bis spätestens 01. August 2025 per Mail an scs-summit@osb-alliance.com ein.
 Bitte geben Sie dabei an:
