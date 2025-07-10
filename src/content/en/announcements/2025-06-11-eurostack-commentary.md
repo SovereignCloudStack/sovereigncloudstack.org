@@ -20,10 +20,10 @@ template: 'post'
 2. A platform not built upon open standards, without open APIs will neither offer provider switching capabilities nor allow federation nor offer the option of cloud repatriation but instead a full reliance on continuity by the single provider.
 3. Proprietary Cloud platforms operated by on-prem or data centers not belonging to the provider or vendor, still rely on updates and continuity by the single vendor.
 
-## 3. Creating one European hyperscaler ("cloud airbus") is *not* a desirable goal!
-1. The dependencies would be just as strong as they are on the existing (US/CN) hyperscalers, we'd have a monopoly
-2. While legal leverage might be a bit better, and a bit more value creation happens inside Europe, a monopoly won't likely deliver the quality, the innovation and cost efficiency that is desirable
-3. Multiple European providers competing with each other to become THE European hyperscaler contradicts the idea of collaboration within Europe by which leverage on value-creation is highly increased.
+## 3. Creating *one* European hyperscaler ("cloud airbus") is *not* a desirable goal!
+1. With only one EU hyperscaler, the dependencies would be just as strong as they are on the existing (US/CN) hyperscalers, and we'd have a monopoly.
+2. While legal leverage might be a bit better, and a bit more value creation happens inside Europe, a monopoly won't likely deliver the quality, the innovation and cost efficiency that is desirable.
+3. European providers are more likely to be successful if they collaborate on common standards and even some base technology and agree to be part of an ecosystem that competes on areas higher up in the value chain.
 
 ## 4. Europe's industry is strong and resilient because of its highly distributed and specialized nature (with lots of small- and medium-sized businesses), we need to structure German/EuroStack along this strength!
 1. For platform markets, this model however is at a disadvantage due to network effects, favoring "the-winner-takes-it-all" outcomes.
