@@ -23,7 +23,7 @@ template: 'post'
 ## 3. Creating *one* European hyperscaler ("cloud airbus") is *not* a desirable goal!
 1. With only one EU hyperscaler, the dependencies would be just as strong as they are on the existing (US/CN) hyperscalers, and we'd have a monopoly.
 2. While legal leverage might be a bit better, and a bit more value creation happens inside Europe, a monopoly won't likely deliver the quality, the innovation and cost efficiency that is desirable.
-3. European providers are more likely to be successful if they collaborate on common standards and even some base technology and agree to coexist and compete on places higher up in the value chain.
+3. European providers are more likely to be successful if they collaborate on common standards and even some base technology and agree to be part of an ecosystem that competes on areas higher up in the value chain.
 
 ## 4. Europe's industry is strong and resilient because of its highly distributed and specialized nature (with lots of small- and medium-sized businesses), we need to structure German/EuroStack along this strength!
 1. For platform markets, this model however is at a disadvantage due to network effects, favoring "the-winner-takes-it-all" outcomes.

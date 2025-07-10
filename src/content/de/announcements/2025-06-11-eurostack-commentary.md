@@ -23,7 +23,7 @@ template: 'post'
 ## 3. Die Schaffung *eines* europäischen Hyperscalers ("Cloud Airbus") ist *kein* erstrebenswertes Ziel!
 1. Mit nur einem EU Hyperscaler wären die Abhängigkeiten genauso stark wie bei den bestehenden (US/CN) Hyperscalern, wir hätten wieder ein Monopol.
 2. Auch wenn der rechtliche Zugriff etwas besser wäre und etwas mehr Wertschöpfung in Europa stattfände, würde ein Monopol wahrscheinlich nicht die Qualität, die Innovation und die Kosteneffizienz liefern, die wünschenswert wären.
-3. Europäische Anbieter haben eine bessere Chance, erfolgreich zu sein, wenn sie gemeinsam an Standards und sogar Basistechnologien arbeiten und sich darauf einlassen, mit anderen Anbietern zu koexistieren und weiter oben in der Wertschöpfungskette miteinander im Wettbewerb zu stehen.
+3. Europäische Anbieter haben eine bessere Chance, erfolgreich zu sein, wenn sie gemeinsam an Standards und sogar Basistechnologien arbeiten und sich darauf einlassen, in einem Ökosystem von Anbietern zu existieren, das weiter oben in der Wertschöpfungskette miteinander im Wettbewerb steht.
 
 ## 4. Die europäische Industrie ist stark und widerstandsfähig, weil sie hochgradig verteilt und spezialisiert ist (mit vielen kleinen und mittleren Unternehmen), wir müssen den Deutschland/EuroStack gemäß dieser Stärke strukturieren!
 1. Für Plattformmärkte ist dieses Modell jedoch aufgrund von Netzwerkeffekten von Nachteil und begünstigt „the-winner-takes-it-all“-Ergebnisse.
