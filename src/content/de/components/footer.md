@@ -4,6 +4,9 @@ component: footer
 columns:
     - title: ''
       links:
+          - label: 'Mastodon'
+            url: 'https://social.osb-alliance.de/@SCS'
+            icon: '/icons/mastodon-white.svg'
           - label: 'YouTube'
             url: 'https://www.youtube.com/@sovereigncloudstack'
             icon: '/icons/youtube-white.svg'
@@ -11,7 +14,7 @@ columns:
             url: 'https://github.com/SovereignCloudStack'
             icon: '/icons/github-white.svg'
           - label: 'LinkedIn'
-            url: 'https://www.linkedin.com/products/sovereigncloudstack-sovereign-cloud-stack'
+            url: 'https://www.linkedin.com/company/sovereigncloudstack'
             icon: '/icons/linkedin-white.svg'
           - label: 'Matrix'
             url: 'https://matrix.to/#/!TiDqlLmEUaXqTemaLc:matrix.org?via=matrix.org'
@@ -32,6 +35,8 @@ columns:
       links:
           - label: 'Neuigkeiten'
             url: '/news'
+          - label: 'Summit 2025'
+            url: '/summit2025'
           - label: 'Veranstaltungen'
             url: '/events'
     - title: 'Netzwerk'
