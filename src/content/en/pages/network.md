@@ -44,7 +44,6 @@ The Forum SCS-Standards and the development of SCS are supported by a wide range
 - [SysEleven GmbH](https://syseleven.de)
 - [Syself GmbH](https://syself.com)
 - [UhuruTec AG](https://uhurutec.com)
-- [Wavecon GmbH](https://wavecon.de)
 - [Yorizon GmbH](https://yorizon.com)
 
 These partners are contributing their time and resources to strengthen digital sovereignty in Germany and Europe sustainably.

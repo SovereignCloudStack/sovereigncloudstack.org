@@ -44,7 +44,6 @@ Das Forum SCS-Standards und die Entwicklung des SCS werden von einer Vielzahl an
 - [SysEleven GmbH](https://syseleven.de)
 - [Syself GmbH](https://syself.com)
 - [UhuruTec AG](https://uhurutec.com)
-- [Wavecon GmbH](https://wavecon.de)
 - [Yorizon GmbH](https://yorizon.com)
 
 Diese Partner setzen sich mit Zeit und Ressourcen dafür ein, die digitale Souveränität in Deutschland und Europa nachhaltig zu stärken.
