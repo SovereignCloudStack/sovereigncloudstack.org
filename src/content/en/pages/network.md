@@ -35,16 +35,16 @@ The Forum SCS-Standards and the development of SCS are supported by a wide range
 - [Dataport AöR](https://dataport.de)
 - [dNation, s.r.o.](https://dnation.tech)
 - [ITDZ Berlin AöR](https://www.itdz-berlin.de)
+- [noris network AG](https://www.noris.de/en)
 - [OSISM GmbH](https://osism.tech)
 - [plusserver GmbH](https://plusserver.com)
-- S7n Cloud Services GmbH
+- [S7n Cloud Services GmbH](https://garloff.de/s7n/)
 - [ScaleUp Technologies GmbH & Co. KG](https://scaleuptech.com)
 - [secunet Security Networks AG](https://secunet.com)
 - [STACKXPERTS GmbH](https://stackxperts.com)
 - [SysEleven GmbH](https://syseleven.de)
 - [Syself GmbH](https://syself.com)
 - [UhuruTec AG](https://uhurutec.com)
-- [Wavecon GmbH](https://wavecon.de)
 - [Yorizon GmbH](https://yorizon.com)
 
 These partners are contributing their time and resources to strengthen digital sovereignty in Germany and Europe sustainably.
