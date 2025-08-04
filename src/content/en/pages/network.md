@@ -35,6 +35,7 @@ The Forum SCS-Standards and the development of SCS are supported by a wide range
 - [Dataport AöR](https://dataport.de)
 - [dNation, s.r.o.](https://dnation.tech)
 - [ITDZ Berlin AöR](https://www.itdz-berlin.de)
+- [noris network AG](https://www.noris.de/en)
 - [OSISM GmbH](https://osism.tech)
 - [plusserver GmbH](https://plusserver.com)
 - S7n Cloud Services GmbH

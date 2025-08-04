@@ -35,6 +35,7 @@ Das Forum SCS-Standards und die Entwicklung des SCS werden von einer Vielzahl an
 - [Dataport AöR](https://dataport.de)
 - [dNation, s.r.o.](https://dnation.tech)
 - [ITDZ Berlin AöR](https://www.itdz-berlin.de)
+- [noris network AG](https://www.noris.de)
 - [OSISM GmbH](https://osism.tech)
 - [plusserver GmbH](https://plusserver.com)
 - S7n Cloud Services GmbH
