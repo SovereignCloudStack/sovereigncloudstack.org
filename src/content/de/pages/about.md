@@ -7,7 +7,7 @@ template: 'staticPage'
 
 ## Über den Sovereign Cloud Stack (SCS)
 
-Der Sovereign Cloud Stack (SCS) ist eine europäische Initiative, die ein offenes, transparentes und anbieterneutrales Cloud-Ökosystem schaffen möchte, das Souveränität und Interoperabilität gewährleistet.
+Der Sovereign Cloud Stack (SCS) ist eine europäische Initiative, die ein offenes, transparentes und anbieterneutrales Cloud-Ökosystem schafft, das Souveränität und Interoperabilität gewährleistet.
 
 ### Die drei Säulen von SCS:
 

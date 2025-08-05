@@ -30,7 +30,7 @@ Diese Kopien werden gelöscht, sobald die Probleme gelöst sind.
 Falls Sie Fragen zu gespeicherten Daten oder der Datenschutzerklärung haben,
 kontaktieren Sie bitte:
 
-Kurt Garloff<br/>
-[garloff [at] osb [minus] alliance [dot] com](mailto:garloff@osb-alliance.com)<br/>
+Felix Kronlage-Dammers<br/>
+[fkr [at] osb [minus] alliance [dot] com](mailto:fkr@osb-alliance.com)<br/>
 Open Source Business Alliance e.V.<br/>
 Pariser Platz 6a, 10117 Berlin, Germany
