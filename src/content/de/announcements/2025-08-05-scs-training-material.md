@@ -33,7 +33,7 @@ besteht, dass aus mehreren Elementen besteht:
 3. Ein paar Monate praktische Arbeit an Testumgebungen, Cloud-in-a-Box, ...
 4. Ein einwöchiges Training "SCS für Fortgeschrittene und Betreiber"
 
-Das Ziel ist es, dass engagierte Teilnehmer:inen nach dem Durchlaufen des Kurses die
+Das Ziel ist es, dass engagierte Teilnehmer:innen nach dem Durchlaufen des Kurses die
 Fähigkeit besitzen, grundlegend den Betrieb einer SCS Cloud (sowohl Virtualisierungsschicht
 als auch Containerschicht) sicherzustellen -- und dabei nur vereinzelt auf die Hilfe
 eines Partners angewiesen zu sein, der Wartung und Support sicherstellt.
@@ -60,19 +60,19 @@ weitere praktische Übung oder gar ein weiteres Training notwendig sein, um das 
 eines weitgehend selbständigen Betriebs einer SCS Cloud mit guter Zuverlässigkeit
 zu erreichen.
 
-![Karsten on Cluster Internals](20250515_155925.jpg)
+![Karsten über Cluster Interna](20250515_155925.jpg)
 
 ## Cloud-in-a-Box als Trainingsumgebung
 
 Das Training bestand aus vielen kleinen Modulen, in denen ein Thema erklärt wurde und
 anschließend in praktischen Aufgaben von den Teilnehmer:innen mit Unterstützung der
 Trainer selbständig bearbeitet wurden. Die Demonstrationen und insbesondere die Übungen
-wurden alle auf einer Cloud-in-a-Box (CiaB) vort Ort durchgeführt, so dass eine Abhängigkeit
-von guter Netzverbinding nach Europa vermieden wurde. Die CiaB war ein Minicomputer mit
+wurden alle auf einer Cloud-in-a-Box (CiaB) vor Ort durchgeführt, so dass eine Abhängigkeit
+von guter Netzverbindung nach Europa vermieden wurde. Die CiaB war ein Minicomputer mit
 8 Zen4 Kernen (16 HTs), 96GB RAM und 2x4TB NVMe und hat sich dabei bewährt, Block- und
 Object Storage (mit Ceph), Virtualisierung (mit OpenStack) und viele Kubernetes Cluster
 (mit SCS Cluster Stacks) bereitzustellen und mit Nutzer- und Betreiberrollen zu bearbeiten.
-Die Teilnerhmer:innen hatten von ihren Microsoft-, Linux- und Apple-Laptops über ein lokal
+Die Teilnehmer:innen hatten von ihren Microsoft-, Linux- und Apple-Laptops über ein lokal
 bereitgestelltes WLAN und Wireguard VPN- Verbindungen direkten Zugriff auf die CiaB.
 
 ## SCS Trainingsmaterial
@@ -84,7 +84,7 @@ und bezahlt. Der Autor hat mit S7n Cloud Services GmbH den Auftrag erhalten und 
 [OSISM GmbH](https://osism.tech/) angefertigt.
 Sie wurden zum Training fertiggestellt und in und nach der Woche nochmal deutlich überarbeitet und
 verbessert. Der Struktur des Trainings folgend bestehen sie aus Kapiteln, in denen nach jedem
-Wissensblock entsprechend Aufgaben ("Assignments") vorgeschlagen sind, die von Teilnerhmer:innen
+Wissensblock entsprechend Aufgaben ("Assignments") vorgeschlagen sind, die von Teilnehmer:innen
 mit Unterstützung der Trainer entsprechend zu bearbeiten sind. Diese praktischen Übungen wurden
 zu einem großen Teil durchgeführt, aber nicht in jedem Fall alle, weil die verfügbare Zeit
 gemanagt werden musste.

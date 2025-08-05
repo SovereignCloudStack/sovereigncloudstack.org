@@ -13,13 +13,13 @@ template: 'post'
 
 Digital Sovereignty is not just a big topic in Europe; companies, organizations
 and governmental authorities in other regions also want to keep in control of
-their data and foster local competency, innocation capabilities and value creation.
-The [govstack projevt](https://govstack.global/) supports this by providing
+their data and foster local competency, innovation capabilities and value creation.
+The [govstack project](https://govstack.global/) supports this by providing
 [standards](https://www.govstack.global/our-offerings/govspecs/) for building blocks
 of digital solutions and by test/demo environments, knowledge transfer (capacity
-buidlgin) and a marketplace for standard-conforming open solutions.
+building) and a marketplace for standard-conforming open solutions.
 The [Sovereign Cloud Stack](https://sovereigncloudstack.org/) (SCS) Project was
-glad to [collaborate with govstak](https://scs.community/de/2024/12/04/GovStack/)
+glad to [collaborate with govstack](https://scs.community/de/2024/12/04/GovStack/)
 and could contribute to the specification of the 
 [Cloud Building Block](https://govstack.gitbook.io/bb-cloud-infrastructure).
 The SCS reference implementation is also listed as a conforming solution on the
@@ -50,12 +50,12 @@ for International Cooperation, Bonn). There was live translation into French
 for the French-speaking participants, so flawless communication was possible
 without requiring advanced French language knowledge from all trainers.
 
-The course was conducted by the author together with Karstem Samaschke.
+The course was conducted by the author together with Karsten Samaschke.
 The participants were highly motivated and enthusiastic about the subject matter.
 Unfortunately, they had only scarcely been able to prepare with practical work
 beforehand, as the planned test environments could not be provided in the countries.
 This also means that additional collection of practical experience and in some
-cases even additional training will be requied to achieve a mostly self-sufficient
+cases even additional training will be required to achieve a mostly self-sufficient
 ability to run SCS Clouds with high reliability.
 
 ![Karsten on Cluster Internals](20250515_155925.jpg)
@@ -67,7 +67,7 @@ explained and then practised in practical assignments that the participants are 
 to work on themselves -- with support from the trainers as needed.
 Demonstrations and in particular the practical work was all done on a local Cloud-in-a-Box
 (CiaB) system to avoid a dependency on good network connectivity to Europe. The CiaB was
-a mini computer with 8 Zen4 cores (16 HTs), 96GB Ram and 2x4TB NVMEs and provied itself as
+a mini computer with 8 Zen4 cores (16 HTs), 96GB Ram and 2x4TB NVMEs and proved itself as
 a reliable basis to provide block and object storage (using Ceph), virtualization (using
 OpenStack) and many Kubernetes Clusters (using SCS Cluster Stacks) and supporting the
 work on both user and operator roles. The participants had access via a locally provided
@@ -76,7 +76,7 @@ CiaB system.
 
 ## SCS training material
 
-Course material was created for the traing; this was tendede and paid for by the ITU.
+Course material was created for the training; this was tendered and paid for by the ITU.
 The author on behalf of S7n Cloud Services GmbH has received the job and has worked on it with
 [dNation s.r.o.](https://dnation.cloud/),
 [VanillaCore](https://vanillacore.de/), and 
