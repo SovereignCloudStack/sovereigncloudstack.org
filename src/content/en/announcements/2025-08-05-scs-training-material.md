@@ -3,6 +3,7 @@ postType: announcements
 title: 'Sovereign Cloud Stack (SCS) Trainings'
 date: '2025-08-05'
 language: 'en'
+image: '20250515_155925.jpg'
 authors:
     - name: 'Kurt Garloff'
 slug: 'scs-training-material'
@@ -57,8 +58,6 @@ beforehand, as the planned test environments could not be provided in the countr
 This also means that additional collection of practical experience and in some
 cases even additional training will be required to achieve a mostly self-sufficient
 ability to run SCS Clouds with high reliability.
-
-![Karsten on Cluster Internals](20250515_155925.jpg)
 
 ## Cloud-in-a-Box as training environment
 
