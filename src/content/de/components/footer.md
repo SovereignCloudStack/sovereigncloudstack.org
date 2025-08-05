@@ -32,6 +32,8 @@ columns:
       links:
           - label: 'Neuigkeiten'
             url: '/news'
+          - label: 'Summit 2025'
+            url: '/summit2025'
           - label: 'Veranstaltungen'
             url: '/events'
     - title: 'Netzwerk'

@@ -22,6 +22,8 @@ columns:
       links:
           - label: 'News'
             url: '/news'
+          - label: 'Summit 2025'
+            url: '/summit2025'
           - label: 'Events'
             url: '/news#events'
           - label: 'Conferences'
