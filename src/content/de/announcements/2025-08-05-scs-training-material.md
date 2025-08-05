@@ -3,6 +3,7 @@ postType: announcements
 title: 'Sovereign Cloud Stack (SCS) Trainings'
 date: '2025-08-05'
 language: 'de'
+image: '20250515_155925.jpg'
 authors:
     - name: 'Kurt Garloff'
 slug: 'scs-training-material'
@@ -59,8 +60,6 @@ werden konnte. Insofern dürfte auch für die besten Teilnehmer:innen nach dem T
 weitere praktische Übung oder gar ein weiteres Training notwendig sein, um das Ziel
 eines weitgehend selbständigen Betriebs einer SCS Cloud mit guter Zuverlässigkeit
 zu erreichen.
-
-![Karsten über Cluster Interna](20250515_155925.jpg)
 
 ## Cloud-in-a-Box als Trainingsumgebung
 
