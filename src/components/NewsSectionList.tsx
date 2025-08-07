@@ -8,6 +8,8 @@ interface NewsSectionListProps {
         frontmatter: {
             title: string;
             date: string;
+            journal: string;
+            link: string;
             slug: string;
             postType: string;
             authors?: Array<{
@@ -127,7 +129,7 @@ const NewsSectionList: React.FC<NewsSectionListProps> = ({
 
                         {/* "Mehr" Button */}
                         <NavLink
-                            href={`/${item.frontmatter.postType}/${item.frontmatter.slug}`}
+                            href={item.frontmatter.postType === 'press' ? `${item.frontmatter.link}` : `/${item.frontmatter.postType}/${item.frontmatter.slug}`}
                             sx={{
                                 display: 'inline-block',
                                 backgroundColor: 'black',
