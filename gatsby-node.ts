@@ -107,6 +107,8 @@ export const createSchemaCustomization: GatsbyNode['createSchemaCustomization'] 
             type Frontmatter {
                 title: String
                 date: Date @dateformat
+                journal: String
+                link: String
                 language: String
                 template: String
                 slug: String

@@ -188,6 +188,8 @@ export const query = graphql`
                 frontmatter {
                     title
                     date(formatString: "MMMM DD, YYYY")
+                    journal
+                    link
                     language
 		    link
 		    slug
