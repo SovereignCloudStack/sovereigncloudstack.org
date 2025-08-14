@@ -5,7 +5,7 @@ slug: 'summit2025'
 template: 'staticPage'
 ---
 
-### Standardization. Collaboration. Continuity.
+## Standardization. Collaboration. Continuity.
 
 Der SCS Summit ist die jährliche Hauptveranstaltung der Community rund um den Sovereign Cloud Stack (SCS).
 
@@ -24,30 +24,45 @@ Die Veranstaltung startet um 10:00 Uhr und geht bis in den Abend.
 Palisadenstraße 48  
 10243 Berlin  
 
-### Programm - Call for Participation
+## Programm
 
-_Call for Participation endet am 1. August 2025_
+|   | Uhrzeit | Thema | Sprecher:innen |
+|---|---|---|---|
+| Einlass | 09:00-10:00 | Registrierung | |
+| Teil I | 10:00-10:15 | Eröffnung | Lisa Seifert (Projektleiterin Forum SCS Standards) & Anja Voß (Moderatorin) |
+| | 10:15-10:25 | Grußwort | Peter Ganten (Vorstandsvorsitzender OSBA) |
+| | 10:25-10:50 | Keynote "..." | Christopher Maier, Thomas Krenn |
+| | 10:50-11:15 | Keynote "..." | Dr. Daniel Gerber (Geschäftsführender Vorstand OSBA, Entwickler ALASCA) |
+| | 11:15-11:45 | Keynote "Souverän auf allen Ebenen: Ein Tech-Stack für die Öffentliche Verwaltung" | Leonhard Kugler (Leiter Open Source-Plattform bei ZenDiS) |
+| | 11:45-12:00 | Pause | |
+| Teil II | 12:00-12:20 | Talk "..." | |
 
-Gestalten Sie die Zukunft offener digitaler Ökosysteme mit? Haben Sie Ideen, Erfahrungen oder Innovationen im Bereich Cloud Computing, von denen andere lernen können? Dann freuen wir uns auf Ihren Beitrag!
+---
 
-Ab sofort nehmen wir Vorschläge für Vorträge und Sessions beim SCS Summit 2025 entgegen – unter dem Motto „*Standardization. Collaboration. Continuity.*“ suchen wir Beiträge, die zum Nachdenken anregen, neue Sichtweisen eröffnen und den Dialog fördern.
+|   |   |   |
+|---|---|---|
+| Einlass | 09:00-10:00 | **Registrierung** |
+| Teil I | 10:00-10:15 | **Eröffnung** <br/> Lisa Seifert (Projektleiterin Forum SCS Standards) & Anja Voß (Moderatorin) |
+| | 10:15-10:25 | **Grußwort** <br/> Peter Ganten (Vorstandsvorsitzender OSBA) |
+| | 10:25-10:50 | **Keynote "..."** <br/> Christopher Maier, Thomas Krenn |
+| | 10:50-11:15 | **Keynote "..."** <br/> Dr. Daniel Gerber (Geschäftsführender Vorstand OSBA, Entwickler ALASCA) |
+| | 11:15-11:45 | **Keynote "Souverän auf allen Ebenen: Ein Tech-Stack für die Öffentliche Verwaltung"** <br/> Leonhard Kugler (Leiter Open Source-Plattform bei ZenDiS) |
+| | 11:45-12:00 | **Pause** |
+| Teil II | 12:00-12:20 | **Talk "..."** |
 
-Ob Best Practices, inspirierende Success Stories oder frische Ideen mit Blick auf offene digitale Innovation – stellen Sie Ihr Thema der SCS Community vor und bringen Sie sich aktiv ein.
+## Unsere Sponsoren
 
-_Machen Sie mit_: Präsentieren Sie Ihre Themen, Erfahrungen und Visionen auf dem SCS Summit 2025!
+### Gold
 
-#### Teilnahme am Call for Participation
+[![Logo Cloud&Heat](../../../images/logos/Logo_CloudAndHeat.jpg)](https://www.cloudandheat.com/)
 
-Reichen Sie Ihren Vorschlag bis spätestens 01. August 2025 per Mail an scs-summit@osb-alliance.com ein.
-Bitte geben Sie dabei an:
+[![Logo Yorizon](../../../images/logos/Logo_Yorizon.jpg)](https://yorizon.com/)
 
-- Titel und kurze Beschreibung
-- Angaben zur Person / zum Team und ggf. zum Unternehmen
-- Bevorzugtes Format
-- Gewünschter zeitlicher Umfang
-- Technische oder barrierefreie Anforderungen
+### Silber
 
-### Hier sichern Sie sich Ihr kostenfreies Ticket!
+[![Logo SUSE](../../../images/logos/Logo_SUSE.jpg)](https://suse.com/)
+
+## Hier sichern Sie sich Ihr kostenfreies Ticket!
 
 Eine Anmeldung für den Summit ist [hier](https://events.sovereigncloudstack.org/scs-summit-2025/) kostenfrei möglich.
 
@@ -57,6 +72,6 @@ Eine Anmeldung für den Summit ist [hier](https://events.sovereigncloudstack.org
 - Vernetzen Sie sich mit Expert:innen und Entscheider:innen
 - Gestalten Sie die digitale Zukunft in Europa aktiv mit
 
-### Kontakt
+## Kontakt
 
-Bei Fragen melden Sie sich gerne unter scs-summit@osb-alliance.com. Wir freuen uns auf Ihre Ideen!
+Bei Fragen oder Ideen zum Summit melden Sie sich gerne unter scs-summit@osb-alliance.com.
