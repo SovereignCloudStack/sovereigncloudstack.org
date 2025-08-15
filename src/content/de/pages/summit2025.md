@@ -26,19 +26,6 @@ Palisadenstraße 48
 
 ## Programm
 
-|   | Uhrzeit | Thema | Sprecher:innen |
-|---|---|---|---|
-| Einlass | 09:00-10:00 | Registrierung | |
-| Teil I | 10:00-10:15 | Eröffnung | Lisa Seifert (Projektleiterin Forum SCS Standards) & Anja Voß (Moderatorin) |
-| | 10:15-10:25 | Grußwort | Peter Ganten (Vorstandsvorsitzender OSBA) |
-| | 10:25-10:50 | Keynote "..." | Christopher Maier, Thomas Krenn |
-| | 10:50-11:15 | Keynote "..." | Dr. Daniel Gerber (Geschäftsführender Vorstand OSBA, Entwickler ALASCA) |
-| | 11:15-11:45 | Keynote "Souverän auf allen Ebenen: Ein Tech-Stack für die Öffentliche Verwaltung" | Leonhard Kugler (Leiter Open Source-Plattform bei ZenDiS) |
-| | 11:45-12:00 | Pause | |
-| Teil II | 12:00-12:20 | Talk "..." | |
-
----
-
 |   |   |   |
 |---|---|---|
 | Einlass | 09:00-10:00 | **Registrierung** |
