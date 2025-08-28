@@ -28,26 +28,44 @@ Palisadenstraße 48
 
 |   |   |   |
 |---|---|---|
-| Einlass | 09:00-10:00 | **Registrierung** |
-| Teil I | 10:00-10:15 | **Eröffnung** <br/> Lisa Seifert (Projektleiterin Forum SCS Standards) & Anja Voß (Moderatorin) |
-| | 10:15-10:25 | **Grußwort** <br/> Peter Ganten (Vorstandsvorsitzender OSBA) |
-| | 10:25-10:50 | **Keynote "..."** <br/> Christopher Maier, Thomas Krenn |
-| | 10:50-11:15 | **Keynote "..."** <br/> Dr. Daniel Gerber (Geschäftsführender Vorstand OSBA, Entwickler ALASCA) |
-| | 11:15-11:45 | **Keynote "Souverän auf allen Ebenen: Ein Tech-Stack für die Öffentliche Verwaltung"** <br/> Leonhard Kugler (Leiter Open Source-Plattform bei ZenDiS) |
-| | 11:45-12:00 | **Pause** |
-| Teil II | 12:00-12:20 | **Talk "..."** |
+| | 09:00-10:00 | **Registrierung** <br/> bei Kaffee & Tee |
+| Eröffnung SCS | 10:00-10:10 | **Begrüßung & Programmvorstellung** <br/> Lisa Seifert (Projektleiterin Forum SCS Standards) & Anja Voß (Projektmanagerin DigitalHub.SH) |
+| Eröffnung OSBA | 10:10-10:20 | **Grußwort** <br/> Diego Calvo de Nó (Finanzvorstand OSBA, CEO Proventa AG), Janis Kemper (Sprecher Forum SCS Standards/Co-Founder Syself) |
+| Keynote | 10:25-10:55 | **Vom Risiko zur Chance: Wie geopolitische Entwicklungen Europas IT beeinflussen** <br/> Christoph Maier (CEO Thomas-Krenn.AG) |
+| Keynote | 11:00-11:20 | **„Frei wie in Freiheit“ für Europa – Offener Code gegen Digitale Abhängigkeit** <br/> Daniel Gerber (Geschäftsführender Vorstand OSBA, Entwickler ALASCA) |
+| | 11:20-11:40 | **Pause** <br/> mit Kaffee, Tee & Snacks |
+| Tech Talk | 11:40-12:10 | **„Goodby VMware“ – Migration unserer VMware Plattform auf OpenStack (SCS/OSISM) als Serviceprovider** <br/> Jan Mußmann (Geschäftsführer/CTO UPONU GmbH) |
+| Tech Talk | 12:10-12:35 | **Multi-Provider-Cloud-Architektur bei der BTC AG: Strategie, Implementierung und gewonnene Erkenntnisse** <br/> Christian Berendt (Geschäftsführer OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
+| Tech Talk | 12:35-13:00 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services), Assaf Sauer (Gründer Stacktic) |
+| Tech Talk | 13:00-13:30 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Gerhard Bader (Head of Products & Services Yorizon GmbH & Co. KG) |
+| | 13:30-14:30 | **Mittagspause** <br/> mit warmen Speisen |
+| Live Podcast | 14:30-15:50 | **Deutschlandstack** <br/> eGovernment Podcast von Torsten Frenzel |
+| | 15:50-16:10 | **Kaffeepause** <br/> mit Kaffee, Tee & Kuchen |
+| SCS Updates | 16:10-16:45 | **Progress on the SCS reference implementation** <br/> Kurt Garloff, Christian Berendt, Jan Schoone, Matej Feder (SCS Project Board) |
+| Zeremonie | 16:45-17:30 | **Feierliche Verleihung der ersten SCS-Zertifizierungen** <br/> Felix Kronlage-Dammer (Leiter Forum SCS Standards) |
+| | ab 17:30 | **Get Together** <br/> bei Snacks & Getränken |
 
 ## Unsere Sponsoren
 
-### Gold
+### Goldsponsoren
 
-[![Logo Cloud&Heat](../../../images/logos/Logo_CloudAndHeat.jpg)](https://www.cloudandheat.com/)
+[![Cloud&Heat](../../../images/logos/Logo_CloudAndHeat_300px.jpg)](https://www.cloudandheat.com/)
 
-[![Logo Yorizon](../../../images/logos/Logo_Yorizon.jpg)](https://yorizon.com/)
+[![Yorizon](../../../images/logos/Logo_Yorizon_300px.jpg)](https://yorizon.com/)
 
-### Silber
+### Silbersponsoren
 
-[![Logo SUSE](../../../images/logos/Logo_SUSE.jpg)](https://suse.com/)
+[![SUSE](../../../images/logos/Logo_SUSE_300px.jpg)](https://suse.com/)
+
+### Mediasponsoren
+
+[![UhuruTec](../../../images/logos/Logo_UhuruTec_300px.jpg)](https://www.uhurutec.com/)
+
+### SCS-Mitglieder
+
+Der SCS Summit 2025 wird unterstützt von den Mitgliedern des Forum SCS Standards:
+
+[![Mitglieder Forum SCS-Standards](../../../images/logos/Logos_Members_SCS.jpg)](https://osb-alliance.de/forum-scs-standards)
 
 ## Hier sichern Sie sich Ihr kostenfreies Ticket!
 
