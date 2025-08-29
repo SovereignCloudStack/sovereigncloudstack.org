@@ -28,7 +28,7 @@ steckt – und sie eigenständig betreiben können.
 Gemeinsam mit der internationalen Initiative
 [GovStack](https://govstack.global/) wurde ein umfassendes Trainingsprogramm
 entwickelt, das digitale Souveränität im Cloud-Betrieb praxisnah vermittelt.
-GovStack unterstützt weltweit den Aufbau digitaler Infrastrukturen – mit
+GovStack unterstützt weltweit den Aufbau digitaler Dienste – mit
 standardisierten Bausteinen, Test- und Demo-Umgebungen sowie einem Marktplatz
 für interoperable, offene Lösungen.
 
@@ -37,7 +37,7 @@ ein](https://scs.community/de/2024/12/04/GovStack/)): So war SCS maßgeblich an
 der Entwicklung des
 [Cloud-Infrastruktur-Bausteins](https://govstack.gitbook.io/bb-cloud-infrastructure)
 beteiligt. Die SCS-Referenzimplementierung ist auch als konforme Lösung auf dem
-[govstack-Marktplatz](https://govstack.gitbook.io/bb-cloud-infrastructure)
+[govstack-Marktplatz](https://www.govstack.global/software/)
 gelistet – ein wichtiger Meilenstein auf dem Weg zu mehr Vertrauen und
 internationaler Verbreitung souveräner Cloud-Technologien.
 
@@ -46,7 +46,7 @@ technische Grundlagen als auch praktische Erfahrung vermittelt. Es umfasst:
 
 1. Selbststudium über Online-Materialien,
 2. eine einwöchige Grundlagen-Schulung,
-3. mehrere Wochen praktischer Arbeit mit Testumgebungen (z. B. „Cloud-in-a-Box“),
+3. mehrere Wochen praktischer Arbeit mit Testumgebungen (z.B. „Cloud-in-a-Box“),
 4. und ein Fortgeschrittenentraining mit Fokus auf den realen Betrieb.
 
 Ziel des Programms ist es, dass engagierte Teilnehmer:innen danach selbständig
@@ -119,17 +119,17 @@ Trainings in Nairobi konnten ein Großteil dieser Übungen erfolgreich umgesetzt
 werden – auch wenn aus Zeitgründen nicht alle vollständig bearbeitet werden
 konnten.
 
-Das Material liegt in Markdown-Form vor, lässt sich leicht erweitern, und kann
-z.B. mit HedgeDoc direkt in Präsentationen umgewandelt oder als umfangreiches
-PDF-Buch genutzt werden (derzeit rund 85 Seiten, Stand August 2025).
+Das [Material](https://github.com/SovereignCloudStack/scs-training/) liegt in
+Markdown-Form vor, lässt sich leicht erweitern, und kann z.B. mit HedgeDoc
+direkt in Präsentationen umgewandelt oder als umfangreiches PDF-Buch genutzt
+werden (derzeit rund 85 Seiten, Stand August 2025).
 
 Besonders wichtig: Die Unterlagen wurde unter einer Open-Source-Lizenz
 ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de))
-[veröffentlicht](https://github.com/SovereignCloudStack/scs-training/).  Diese
-Lizenz verpflichtet zur Namensnennung der Autor:innen (BY) und zur Weitergabe
-eigener Verbesserungen unter derselben Lizenz (SA). Sie wurde bewusst gewählt,
-um sicherzustellen, dass künftige Ergänzungen und Verbesserungen der gesamten
-Community zugutekommen.
+veröffentlicht. Diese Lizenz verpflichtet zur Namensnennung der Autor:innen
+(BY) und zur Weitergabe eigener Verbesserungen unter derselben Lizenz (SA). Sie
+wurde bewusst gewählt, um sicherzustellen, dass künftige Ergänzungen und
+Verbesserungen der gesamten Community zugutekommen.
 
 Die Marken Sovereign Cloud Stack und SCS sind weiterhin Eigentum der
 [OSBA](https://osb-alliance.de/). Schulungen unter dem SCS-Namen sollten daher
