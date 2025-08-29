@@ -61,7 +61,7 @@ Fortgeschrittenen-Training in Nairobi, Kenia, das im Mai 2025 stattfand. Gut 20
 Teilnehmer:innen aus Kenia, Somalia und Djibouti kamen für eine intensive
 Schulungswoche zusammen. Die meisten hatten zuvor bereits an den
 Grundlagen-Schulungen teilgenommen, die in mehreren afrikanischen Ländern von
-Karsten Samaschke (VanillaCore) durchgeführt wurden.
+Karsten Samaschke durchgeführt wurden.
 
 Organisiert und finanziert wurde das Training von der [ITU](https://itu.int/)
 (Internationale Fernmeldeunion, Genf) und der [GIZ](https://giz.de/)
@@ -147,7 +147,8 @@ einen Beitrag leisten, um souveräne Cloud-Technologien weltweit zu verbreiten.
 
 Ein besonderer Dank geht an die ITU für die Finanzierung und die Lizenzfreigabe
 der Schulungsmaterialien, an die GIZ für Organisation und Finanzierung des
-Trainings in Kenia sowie an die Partnerunternehmen [dNation
-s.r.o.](https://dnation.cloud/), [VanillaCore](https://vanillacore.de/) und
-[OSISM GmbH](https://osism.tech/), die inhaltlich und praktisch maßgeblich zum
-Erfolg des Programms beigetragen haben.
+Trainings in Kenia, das Karsten Samaschke ([VanillaCore](https://vanillacore.de/)
+gemeinsam mit mir (Kurt Garloff, [S7n Cloud Services GmbH](https://garloff.de/s7n/))
+durchgeführt hat.
+Zu den Trainingsmaterialien haben außerdem [dNation s.r.o.](https://dnation.cloud/),
+[OSISM GmbH](https://osism.tech/) und die SCS Community inhaltlich beigetragen.
