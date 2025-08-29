@@ -29,20 +29,20 @@ Palisadenstraße 48
 |   |   |   |
 |---|---|---|
 | | 09:00-10:00 | **Registrierung** <br/> bei Kaffee & Tee |
-| Eröffnung SCS | 10:00-10:10 | **Begrüßung & Programmvorstellung** <br/> Lisa Seifert (Projektleiterin Forum SCS Standards) & Anja Voß (Projektmanagerin DigitalHub.SH) |
-| Eröffnung OSBA | 10:10-10:20 | **Grußwort** <br/> Diego Calvo de Nó (Finanzvorstand OSBA, CEO Proventa AG), Janis Kemper (Sprecher Forum SCS Standards/Co-Founder Syself) |
+| Eröffnung | 10:00-10:10 | **Begrüßung & Programmvorstellung** <br/> Lisa Seifert (Projektleiterin Forum SCS-Standards) & Anja Voß (Projektmanagerin DigitalHub.SH) |
+| Eröffnung | 10:10-10:20 | **Grußwort** <br/> Diego Calvo de Nó (Finanzvorstand OSBA, CEO Proventa AG), Janis Kemper (Sprecher Forum SCS-Standards, Co-Founder Syself GmbH) |
 | Keynote | 10:25-10:55 | **Vom Risiko zur Chance: Wie geopolitische Entwicklungen Europas IT beeinflussen** <br/> Christoph Maier (CEO Thomas-Krenn.AG) |
-| Keynote | 11:00-11:20 | **„Frei wie in Freiheit“ für Europa – Offener Code gegen Digitale Abhängigkeit** <br/> Daniel Gerber (Geschäftsführender Vorstand OSBA, Entwickler ALASCA) |
+| Keynote | 11:00-11:20 | **„Frei wie in Freiheit“ für Europa – Offener Code gegen Digitale Abhängigkeit** <br/> Daniel Gerber (Stellvertretender Vorsitzender OSBA, Entwickler ALASCA e.V.) |
 | | 11:20-11:40 | **Pause** <br/> mit Kaffee, Tee & Snacks |
-| Tech Talk | 11:40-12:10 | **„Goodby VMware“ – Migration unserer VMware Plattform auf OpenStack (SCS/OSISM) als Serviceprovider** <br/> Jan Mußmann (Geschäftsführer/CTO UPONU GmbH) |
-| Tech Talk | 12:10-12:35 | **Multi-Provider-Cloud-Architektur bei der BTC AG: Strategie, Implementierung und gewonnene Erkenntnisse** <br/> Christian Berendt (Geschäftsführer OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
-| Tech Talk | 12:35-13:00 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services), Assaf Sauer (Gründer Stacktic) |
-| Tech Talk | 13:00-13:30 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Gerhard Bader (Head of Products & Services Yorizon GmbH & Co. KG) |
-| | 13:30-14:30 | **Mittagspause** <br/> mit warmen Speisen |
-| Live Podcast | 14:30-15:50 | **Deutschlandstack** <br/> eGovernment Podcast von Torsten Frenzel |
+| Live Podcast | 11:45-13:00 | **Deutschlandstack** <br/> eGovernment Podcast von Torsten Frenzel |
+| | 13:00-14:00 | **Mittagspause** <br/> mit warmen Speisen |
+| Tech Talk | 14:05-14:30 | **„Goodby VMware“ – Migration unserer VMware Plattform auf OpenStack (SCS/OSISM) als Serviceprovider** <br/> Jan Mußmann (Geschäftsführer/CTO UPONU GmbH) |
+| Tech Talk | 14:30-14:55 | **Multi-Provider-Cloud-Architektur bei der BTC AG: Strategie, Implementierung und gewonnene Erkenntnisse** <br/> Christian Berendt (Geschäftsführer OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
+| Tech Talk | 14:55-15:20 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services GmbH), Assaf Sauer (Gründer/CTO Stacktic) |
+| Tech Talk | 15:20-15:45 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Yorizon GmbH & Co. KG |
 | | 15:50-16:10 | **Kaffeepause** <br/> mit Kaffee, Tee & Kuchen |
-| SCS Updates | 16:10-16:45 | **Progress on the SCS reference implementation** <br/> Kurt Garloff, Christian Berendt, Jan Schoone, Matej Feder (SCS Project Board) |
-| Zeremonie | 16:45-17:30 | **Feierliche Verleihung der ersten SCS-Zertifizierungen** <br/> Felix Kronlage-Dammer (Leiter Forum SCS Standards) |
+| SCS Updates | 16:15-16:45 | **Progress on the SCS reference implementation** <br/> SCS Project Board: Kurt Garloff, Christian Berendt, Jan Schoone, Matej Feder |
+| Zeremonie | 16:45-17:30 | **Feierliche Verleihung der ersten SCS-Zertifizierungen** <br/> Felix Kronlage-Dammer (Leiter Forum SCS-Standards) |
 | | ab 17:30 | **Get Together** <br/> bei Snacks & Getränken |
 
 ## Unsere Sponsoren
@@ -63,7 +63,7 @@ Palisadenstraße 48
 
 ### SCS-Mitglieder
 
-Der SCS Summit 2025 wird unterstützt von den Mitgliedern des Forum SCS Standards:
+Der SCS Summit 2025 wird unterstützt von den Mitgliedern des Forum SCS-Standards:
 
 [![Mitglieder Forum SCS-Standards](../../../images/logos/Logos_Members_SCS.jpg)](https://osb-alliance.de/forum-scs-standards)
 
