@@ -28,7 +28,7 @@ Palisadenstraße 48
 
 |   |   |
 |---|---|
-| 09:00-10:00 | **Registration & Reception** <br/>  |
+| 09:00-10:00 | **Registration & Reception** <br/> Arrive. Check in. Connect. |
 | 10:00-10:10 | **Welcome & Introduction** <br/> Lisa Seifert (Project management Forum SCS-Standards), Anja Voß (Project management DigitalHub.SH) |
 | 10:10-10:20 | **Greeting** <br/> Diego Calvo de Nó (CFO OSBA, CEO Proventa AG), Janis Kemper (Spokespersons Forum SCS-Standards, Co-Founder Syself GmbH) |
 | 10:25-10:55 | **From risk to opportunity: How geopolitical developments are influencing Europe's IT** <br/> Christoph Maier (CEO Thomas-Krenn.AG) |
