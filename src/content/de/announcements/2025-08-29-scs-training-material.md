@@ -33,7 +33,7 @@ standardisierten Bausteinen, Test- und Demo-Umgebungen sowie einem Marktplatz
 für interoperable, offene Lösungen.
 
 Das Projekt Sovereign Cloud Stack (SCS) [bringt sich dabei aktiv
-ein](https://scs.community/de/2024/12/04/GovStack/)): So war SCS maßgeblich an
+ein](https://scs.community/de/2024/12/04/GovStack/): So war SCS maßgeblich an
 der Entwicklung des
 [Cloud-Infrastruktur-Bausteins](https://govstack.gitbook.io/bb-cloud-infrastructure)
 beteiligt. Die SCS-Referenzimplementierung ist auch als konforme Lösung auf dem
@@ -133,8 +133,8 @@ Verbesserungen der gesamten Community zugutekommen.
 
 Die Marken Sovereign Cloud Stack und SCS sind weiterhin Eigentum der
 [OSBA](https://osb-alliance.de/). Schulungen unter dem SCS-Namen sollten daher
-durch Mitglieder und in Abstimmung mit dem [Forum SCS-Standards]([Forum
-SCS-Standards](https://www.sovereigncloudstack.org/de/network/)) der OSBA
+durch Mitglieder und in Abstimmung mit dem [Forum
+SCS-Standards](https://www.sovereigncloudstack.org/de/network/) der OSBA
 angeboten werden. So wird eine konsistente Darstellung gewährleistet und die
 Qualität der Trainings gesichert.
 Die Mitarbeit im Forum, die Durchführung eigener Trainings und die
@@ -147,8 +147,9 @@ einen Beitrag leisten, um souveräne Cloud-Technologien weltweit zu verbreiten.
 
 Ein besonderer Dank geht an die ITU für die Finanzierung und die Lizenzfreigabe
 der Schulungsmaterialien, an die GIZ für Organisation und Finanzierung des
-Trainings in Kenia, das Karsten Samaschke ([VanillaCore](https://vanillacore.de/)
+Trainings in Kenia, das Karsten Samaschke ([VanillaCore](https://vanillacore.de/))
 gemeinsam mit mir (Kurt Garloff, [S7n Cloud Services GmbH](https://garloff.de/s7n/))
 durchgeführt hat.
-Zu den Trainingsmaterialien haben außerdem [dNation s.r.o.](https://dnation.cloud/),
-[OSISM GmbH](https://osism.tech/) und die SCS Community inhaltlich beigetragen.
+Zu den Trainingsmaterialien haben außerdem [dNation
+s.r.o.](https://dnation.cloud/), [OSISM GmbH](https://osism.tech/) und die [SCS
+Community](https://docs.scs.community/community) inhaltlich beigetragen.
