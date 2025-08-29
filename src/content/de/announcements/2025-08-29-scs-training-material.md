@@ -1,7 +1,7 @@
 ---
 postType: announcements
 title: 'Sovereign Cloud Stack (SCS) Trainings'
-date: '2025-08-05'
+date: '2025-08-29'
 language: 'de'
 image: '20250515_155925.jpg'
 authors:
@@ -10,107 +10,144 @@ slug: 'scs-training-material'
 template: 'post'
 ---
 
-## SCS Trainingsprogramm im Rahmen von govstack
+## SCS-Trainings weltweit: Wie offene Schulungskonzepte für digitale Souveränität sorgen
 
-Digitale Souveränität ist nicht nur in Europa ein großes Thema; auch in anderen
-Regionen der Welt wollen Unternehmen, Organisationen und staatliche Stellen die
-Kontrolle über die Daten behalten und lokale Kompetenzen, Innovationskraft und
-Wertschöpfung fördern. Das [govstack Projekt](https://govstack.global/)
-unterstützt dies durch die Bereitstellung von
-[Standards](https://www.govstack.global/our-offerings/govspecs/) für Bausteine
-für digitale Lösungen sowie durch Test/Demoumgebungen, Wissensvermittlung und
-einen Marktplatz für standardkonforme offene Lösungen. Das
-[Sovereign Cloud Stack](https://sovereigncloudstack.org/) (SCS) Projekt arbeitet sehr
-gerne mit govstack [zusammen](https://scs.community/de/2024/12/04/GovStack/) und
-durfte zur Spezifikation des
-[Cloud Bausteins](https://govstack.gitbook.io/bb-cloud-infrastructure) beitragen.
-Die SCS Referenzimplementierung ist auch auf dem Marketplace als konforme Lösung gelistet.
+Digitale Souveränität ist ein Thema, das längst über die Grenzen Europas hinaus
+Bedeutung gewonnen hat. Weltweit suchen Organisationen, Unternehmen und
+Regierungen nach Wegen, die Kontrolle über ihre digitale Infrastruktur und ihre
+Daten zu behalten – unabhängig, sicher und auf Basis offener Standards. Genau
+hier setzt [Sovereign Cloud Stack (SCS)](https://sovereigncloudstack.org/) an.
 
-Für die Wissensvermittlung wurde gemeinsam ein Programm entworfen, welches darin
-besteht, dass aus mehreren Elementen besteht:
+SCS ist nicht nur die Antwort auf die Frage nach dem Betrieb einer digital
+souveränen Cloud-Infrastruktur – es ist auch ein Bildungsprojekt. Denn wahre
+Souveränität entsteht nur, wenn Menschen verstehen, was hinter der Technik
+steckt – und sie eigenständig betreiben können.
 
-1. Ein Vorbereitung der Teilnehmer durch Online Material
-2. Eine einwöchiges Cloud Fundamentals Schulung
-3. Ein paar Monate praktische Arbeit an Testumgebungen, Cloud-in-a-Box, ...
-4. Ein einwöchiges Training "SCS für Fortgeschrittene und Betreiber"
+## Zusammenarbeit mit GovStack: Standards, Wissen und Praxis vereint
 
-Das Ziel ist es, dass engagierte Teilnehmer:innen nach dem Durchlaufen des Kurses die
-Fähigkeit besitzen, grundlegend den Betrieb einer SCS Cloud (sowohl Virtualisierungsschicht
-als auch Containerschicht) sicherzustellen -- und dabei nur vereinzelt auf die Hilfe
-eines Partners angewiesen zu sein, der Wartung und Support sicherstellt.
+Gemeinsam mit der internationalen Initiative
+[GovStack](https://govstack.global/) wurde ein umfassendes Trainingsprogramm
+entwickelt, das digitale Souveränität im Cloud-Betrieb praxisnah vermittelt.
+GovStack unterstützt weltweit den Aufbau digitaler Infrastrukturen – mit
+standardisierten Bausteinen, Test- und Demo-Umgebungen sowie einem Marktplatz
+für interoperable, offene Lösungen.
 
-## SCS in Afrika
+Das Projekt Sovereign Cloud Stack (SCS) [bringt sich dabei aktiv
+ein](https://scs.community/de/2024/12/04/GovStack/)): So war SCS maßgeblich an
+der Entwicklung des
+[Cloud-Infrastruktur-Bausteins](https://govstack.gitbook.io/bb-cloud-infrastructure)
+beteiligt. Die SCS-Referenzimplementierung ist auch als konforme Lösung auf dem
+[govstack-Marktplatz](https://govstack.gitbook.io/bb-cloud-infrastructure)
+gelistet – ein wichtiger Meilenstein auf dem Weg zu mehr Vertrauen und
+internationaler Verbreitung souveräner Cloud-Technologien.
 
-Der erste fortgeschrittene Kurs im Rahmen dieses Programms fand im Mai 2025 in
-Nairobi (Kenia) statt -- mit gut 20 Teilnehmer:innen aus Djibouti, Somalia und
-Kenia. Diese hatten zuvor Fundamentals Schulungen durchlaufen, für die Karsten
-Samaschke (VanillaCore) einige Termine in Afrika durchgeführt hatte. Die Trainings
-wurden durch die [ITU](https://itu.int/)(Internationale Fernmeldeunion, Genf) und
-die [GIZ](https://giz.de/) (Gesellschaft für Internationale Zusammenarbeit, Bonn)
-organisiert und aus deren Fördergeldern finanziert. Für die französischsprachigen
-Teilnehmer:innen waren vom GIZ Simultanübersetzer vor Ort, so dass eine lückenlose
-Kommunikation möglich war, ohne fortgeschrittene Französischkenntnisse aller Trainer
-vorauszusetzen.
+Ein wichtiger Teil dieser Zusammenarbeit ist ein Trainingsprogramm, das sowohl
+technische Grundlagen als auch praktische Erfahrung vermittelt. Es umfasst:
 
-Der Kurs in Nairobi wurde vom Autor zusammen mit Karsten Samaschke durchgeführt.
-Die Teilnehmer:innen waren hoch motiviert und mit Enthusiasmus bei der Sache;
-allerdings war die praktische Arbeit mit Testumgebungen im Vorfeld nur vereinzelt gelungen,
-da die notwendige Infrastruktur in den Ländern anders als geplant nicht bereitgestellt
-werden konnte. Insofern dürfte auch für die besten Teilnehmer:innen nach dem Training
-weitere praktische Übung oder gar ein weiteres Training notwendig sein, um das Ziel
-eines weitgehend selbständigen Betriebs einer SCS Cloud mit guter Zuverlässigkeit
-zu erreichen.
+1. Selbststudium über Online-Materialien,
+2. eine einwöchige Grundlagen-Schulung,
+3. mehrere Wochen praktischer Arbeit mit Testumgebungen (z. B. „Cloud-in-a-Box“),
+4. und ein Fortgeschrittenentraining mit Fokus auf den realen Betrieb.
 
-## Cloud-in-a-Box als Trainingsumgebung
+Ziel des Programms ist es, dass engagierte Teilnehmer:innen danach selbständig
+in der Lage sind, eine vollständige SCS-Cloud (Virtualisierungs- und
+Containerschicht und Tools) zu betreiben – mit nur punktueller Unterstützung
+durch externe Partner.
 
-Das Training bestand aus vielen kleinen Modulen, in denen ein Thema erklärt wurde und
-anschließend in praktischen Aufgaben von den Teilnehmer:innen mit Unterstützung der
-Trainer selbständig bearbeitet wurden. Die Demonstrationen und insbesondere die Übungen
-wurden alle auf einer Cloud-in-a-Box (CiaB) vor Ort durchgeführt, so dass eine Abhängigkeit
-von guter Netzverbindung nach Europa vermieden wurde. Die CiaB war ein Minicomputer mit
-8 Zen4 Kernen (16 HTs), 96GB RAM und 2x4TB NVMe und hat sich dabei bewährt, Block- und
-Object Storage (mit Ceph), Virtualisierung (mit OpenStack) und viele Kubernetes Cluster
-(mit SCS Cluster Stacks) bereitzustellen und mit Nutzer- und Betreiberrollen zu bearbeiten.
-Die Teilnehmer:innen hatten von ihren Microsoft-, Linux- und Apple-Laptops über ein lokal
-bereitgestelltes WLAN und Wireguard VPN- Verbindungen direkten Zugriff auf die CiaB.
+## SCS in Afrika: Erfolgreiches Training in Kenia
 
-## SCS Trainingsmaterial
+Ein herausragendes Beispiel für die Umsetzung dieses Programms ist das erste
+Fortgeschrittenen-Training in Nairobi, Kenia, das im Mai 2025 stattfand. Gut 20
+Teilnehmer:innen aus Kenia, Somalia und Djibouti kamen für eine intensive
+Schulungswoche zusammen. Die meisten hatten zuvor bereits an den
+Grundlagen-Schulungen teilgenommen, die in mehreren afrikanischen Ländern von
+Karsten Samaschke (VanillaCore) durchgeführt wurden.
 
-Für das Training wurden Schulungsmaterialien angefertigt; diese wurden von der ITU ausgeschrieben
-und bezahlt. Der Autor hat mit S7n Cloud Services GmbH den Auftrag erhalten und sie zusammen mit
-[dNation s.r.o.](https://dnation.cloud/),
-[VanillaCore](https://vanillacore.de/) und 
-[OSISM GmbH](https://osism.tech/) angefertigt.
-Sie wurden zum Training fertiggestellt und in und nach der Woche nochmal deutlich überarbeitet und
-verbessert. Der Struktur des Trainings folgend bestehen sie aus Kapiteln, in denen nach jedem
-Wissensblock entsprechend Aufgaben ("Assignments") vorgeschlagen sind, die von Teilnehmer:innen
-mit Unterstützung der Trainer entsprechend zu bearbeiten sind. Diese praktischen Übungen wurden
-zu einem großen Teil durchgeführt, aber nicht in jedem Fall alle, weil die verfügbare Zeit
-gemanagt werden musste.
+Organisiert und finanziert wurde das Training von der [ITU](https://itu.int/)
+(Internationale Fernmeldeunion, Genf) und der [GIZ](https://giz.de/)
+(Gesellschaft für Internationale Zusammenarbeit, Bonn/Eschborn). Für
+französischsprachige Teilnehmende wurden vor Ort Simultanübersetzungen
+bereitgestellt – so konnten alle ohne Sprachbarrieren aktiv mitarbeiten.
 
-Das Material besteht aus einer Sammlung von Markdown-Dateien; aus diesen lassen sich leicht Folien
-schneiden (was mit dem Folienmodus von HedgeDoc realisiert wurde). Andererseits lässt sich daraus
-ein (Stand Anfang August 2025) 85 seitiges Buch als PDF erstellen, das man auch als Unterlage in
-Form eines eBooks oder von Papier nutzen kann.
+Die Schulungswoche in Nairobi war geprägt von hoher Motivation und intensivem
+Engagement. Trotz einiger Herausforderungen – insbesondere, dass die für die
+Vorbereitungsphase vorgesehene Infrastruktur in den Heimatländern vielfach
+nicht wie geplant zur Verfügung stand – arbeiteten die Teilnehmer:innen
+konzentriert und aktiv mit. Dabei konnten sie ein solides Fundament an Wissen
+und Fähigkeiten aufbauen. Mit weiterer praktischer Erfahrung und eventuell
+einem zusätzlichen Kurs werden sie in der Lage sein, eine SCS-Cloud
+eigenständig und zuverlässig zu betreiben.
 
-Die ITU hat eingewilligt, die Trainingsunterlagen unter einer Open-Source Lizenz zur Verfügung
-zu stellen. Die Unterlagen stehen seit einigen Wochen unter der
-[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) Lizenz auf
-<https://github.com/SovereignCloudStack/scs-training/> zur Verfügung. Die Lizenz erfordert die
-Namensnennung der Autoren (BY) und die Weitergabe eigener Verbesserungen unter derselben Lizenz (SA)
-und wurde bewusst gewählt, um Verbesserungen auch dem gemeinsamen Dokument zugute kommen zu lassen.
+## Lernen durch Tun: Cloud-in-a-Box als lokale Trainingsumgebung
+
+Das Training folgte einem klaren Prinzip: Erklären, ausprobieren, anwenden. In
+vielen kleinen Modulen wurden zunächst einzelne Themen vorgestellt und
+erläutert. Direkt im Anschluss setzten die Teilnehmer:innen das Gelernte in
+praktischen Aufgaben um – mit Unterstützung der Trainer, aber in eigenständiger
+Arbeit.
+
+Alle Demonstrationen und Übungen fanden vor Ort auf einer speziell dafür
+eingerichteten [Cloud-in-a-Box
+(CiaB)](https://docs.scs.community/docs/iaas/deployment-examples/cloud-in-a-box/)
+statt.  Diese kompakte, leistungsfähige Trainingsumgebung machte das Lernen
+nicht nur greifbar, sondern auch unabhängig von einer stabilen
+Internetverbindung nach Europa. So konnten die Teilnehmenden jederzeit unter
+realistischen Bedingungen arbeiten – genau so, wie es später im echten Betrieb
+einer SCS-Cloud erforderlich ist.
+
+Die eingesetzte CiaB war ein leistungsstarker Minicomputer mit 8 Zen4-Kernen
+(16 Threads), 96 GB RAM und 2×4 TB NVMe-Speicher. Darauf liefen alle für den
+Betrieb einer SCS-Cloud relevanten Dienste: Ceph für Block- und Objektspeicher,
+OpenStack für Virtualisierung sowie mehrere Kubernetes-Cluster mit den SCS
+Cluster Stacks.
+
+Über ein lokal bereitgestelltes WLAN und WireGuard-VPN hatten die
+Teilnehmer:innen von ihren eigenen Laptops – egal ob Windows, macOS oder Linux
+– direkten Zugriff auf die Infrastruktur. Dadurch konnten sie nahtlos zwischen
+theoretischem Input und praktischer Umsetzung wechseln und wertvolle
+Erfahrungen im Umgang mit Nutzer- und Betreiberrollen sammeln.
+
+## SCS-Trainingsmaterial: Offen, flexibel, gemeinsam weiterentwickelbar
+
+Für das gesamte Trainingsprogramm wurde Schulungsmaterial entwickelt – modular,
+praxisorientiert und offen verfügbar.
+
+Der Aufbau folgt einem didaktischen Konzept: Nach jedem Wissensblock schließen
+sich passende Übungen an – praktische Aufgaben, die entweder selbstständig
+oder mit Unterstützung der Trainer:innen bearbeitet werden. Während des
+Trainings in Nairobi konnten ein Großteil dieser Übungen erfolgreich umgesetzt
+werden – auch wenn aus Zeitgründen nicht alle vollständig bearbeitet werden
+konnten.
+
+Das Material liegt in Markdown-Form vor, lässt sich leicht erweitern, und kann
+z.B. mit HedgeDoc direkt in Präsentationen umgewandelt oder als umfangreiches
+PDF-Buch genutzt werden (derzeit rund 85 Seiten, Stand August 2025).
+
+Besonders wichtig: Die Unterlagen wurde unter einer Open-Source-Lizenz
+([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de))
+[veröffentlicht](https://github.com/SovereignCloudStack/scs-training/).  Diese
+Lizenz verpflichtet zur Namensnennung der Autor:innen (BY) und zur Weitergabe
+eigener Verbesserungen unter derselben Lizenz (SA). Sie wurde bewusst gewählt,
+um sicherzustellen, dass künftige Ergänzungen und Verbesserungen der gesamten
+Community zugutekommen.
+
 Die Marken Sovereign Cloud Stack und SCS sind weiterhin Eigentum der
-[OSBA](https://osb-alliance.de/); eine Nutzung in Form von Anbieten von SCS-Trainings sollte
-durch Mitglieder und in Abstimmung mit dem 
-[Forum SCS-Standards](https://www.sovereigncloudstack.org/de/network/) der OSBA geschehen;
-damit soll auch eine konsistente Darstellung und eine hohe Qualität sichergestellt werden.
-Die Mitarbeit dort, die Durchführung von Trainings und die Weiterentwicklung des Materials
-ist ausdrücklich erwünscht!
+[OSBA](https://osb-alliance.de/). Schulungen unter dem SCS-Namen sollten daher
+durch Mitglieder und in Abstimmung mit dem [Forum SCS-Standards]([Forum
+SCS-Standards](https://www.sovereigncloudstack.org/de/network/)) der OSBA
+angeboten werden. So wird eine konsistente Darstellung gewährleistet und die
+Qualität der Trainings gesichert.
+Die Mitarbeit im Forum, die Durchführung eigener Trainings und die
+Weiterentwicklung des Materials sind ausdrücklich erwünscht – jede:r kann hier
+einen Beitrag leisten, um souveräne Cloud-Technologien weltweit zu verbreiten.
+
+🔗 Download & Mitmachen: <https://github.com/SovereignCloudStack/scs-training/>
 
 ## Danksagung
 
-Der Autor möchte sich bei der ITU für die Finanzierung der Trainingsmaterialien und der
-Einwilligung in die Freigabe unter CC-BY-SA-4.0 bedanken; ferner bei der GIZ für die
-Organisation und Finanzierung des Trainings in Kenia. dNation, VanillaCore und OSISM haben
-wesentliche Beiträge geleistet, auch ihnen gilt der Dank!
-
+Ein besonderer Dank geht an die ITU für die Finanzierung und die Lizenzfreigabe
+der Schulungsmaterialien, an die GIZ für Organisation und Finanzierung des
+Trainings in Kenia sowie an die Partnerunternehmen [dNation
+s.r.o.](https://dnation.cloud/), [VanillaCore](https://vanillacore.de/) und
+[OSISM GmbH](https://osism.tech/), die inhaltlich und praktisch maßgeblich zum
+Erfolg des Programms beigetragen haben.
