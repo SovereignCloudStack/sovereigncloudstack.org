@@ -63,7 +63,7 @@ which Karsten Samaschke had lead in a number of African countries.
 
 The trainings was organized and paid for by the [ITU](https://itu.int/)
 (International Telecommunications Union, Geneva) and
-[GIZ](https://giz.de/en/)(German Society for International Cooperation,
+[GIZ](https://giz.de/en/) (German Society for International Cooperation,
 Bonn/Eschborn). There was live translation into French for the French-speaking
 participants, so everyone was able to actively participate without language
 barriers.
@@ -112,6 +112,7 @@ The structure of it follows the didactic concept: After each knowledge block
 there are practical assignments that should be worked through by the participants,
 on their own or with some support by the trainers as needed. During the course
 in Nairobi, most of the assignments were actually successfully done, though
+a few were cut short due to time constraints.
 
 The material is [available](https://github.com/SovereignCloudStack/scs-training/)
 as a collection of markdown formatted text. It can easily be extended,
@@ -125,10 +126,10 @@ republication of own changes under the same license (SA). The license
 was chosen deliberately to ensure that future extensions and improvements
 would be benefiting the whole community again.
 
-The brands Sovereign Cloud Stack and SCS continue to be owned by the 
-[OSBA](https://osb-alliance.com/). Trainings with the SCS name thus should
-be done by members and in alignment with the [Forum SCS-Standards]([Forum
-SCS-Standards](https://www.sovereigncloudstack.org/en/network/)) of the OSBA.
+The brands Sovereign Cloud Stack and SCS continue to be owned by the
+[OSBA](https://osb-alliance.com/). Trainings with the SCS name thus should be
+done by members and in alignment with the [Forum
+SCS-Standards](https://www.sovereigncloudstack.org/en/network/) of the OSBA.
 This ensures a consistent representation and the quality of the trainings.
 Collaboration in the forum and the conduct of trainings is explicitly
 encouraged. Everyone can this way contribute to further spread sovereign
@@ -141,8 +142,8 @@ cloud technology worldwide.
 Special thanks go to the ITU for financing and releasing the training
 materials and to GIZ for organizing and funding the training course in Kenya,
 which was conducted by Karsten Samaschke
-([VanillaCore](https://vanillacore.de/) together with myself (Kurt Garloff,
+([VanillaCore](https://vanillacore.de/)) together with myself (Kurt Garloff,
 [S7n Cloud Services GmbH](https://garloff.de/s7n/)).  There were furthermore
 contributions to the training materials by [dNation
-s.r.o.](https://dnation.cloud/), [OSISM GmbH](https://osism.tech/) and the SCS
-Community.
+s.r.o.](https://dnation.cloud/), [OSISM GmbH](https://osism.tech/) and the
+[SCS Community](https://docs.scs.community/community).
