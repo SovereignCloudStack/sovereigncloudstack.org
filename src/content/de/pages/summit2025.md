@@ -36,7 +36,7 @@ Palisadenstraße 48
 | 11:20-11:40 | **Kurze Pause** <br/> Erfrischen. Aktivieren. Ins Gespräch kommen. |
 | 11:45-13:00 | **Besonderer Programmpunkt** <br/> Details folgen... |
 | 13:00-14:00 | **Mittagspause** <br/> Gemeinsam essen. Energie aufladen. Kontakte knüpfen. |
-| 14:05-14:30 | **„Goodby VMware“ – Migration unserer VMware Plattform auf OpenStack (SCS/OSISM) als Serviceprovider** <br/> Jan Mußmann (Geschäftsführer/CTO UPONU GmbH) |
+| 14:05-14:30 | **„Goodbye VMware“ – Migration unserer VMware Plattform auf OpenStack (SCS/OSISM) als Serviceprovider** <br/> Jan Mußmann (Geschäftsführer/CTO UPONU GmbH) |
 | 14:30-14:55 | **Multi-Provider-Cloud-Architektur bei der BTC AG: Strategie, Implementierung und gewonnene Erkenntnisse** <br/> Christian Berendt (Geschäftsführer OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
 | 14:55-15:20 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services GmbH), Assaf Sauer (Gründer/CTO Stacktic) |
 | 15:20-15:45 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Yorizon GmbH & Co. KG |
