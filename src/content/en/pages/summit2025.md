@@ -81,6 +81,6 @@ You can register for the summit for free [here](https://events.sovereigncloudsta
 - Network with experts and decision-makers
 - Actively shape the digital future in Europe
 
-### Contact
+## Contact
 
 If you have any questions or ideas about the summit, please contact us at scs-summit@osb-alliance.com.
