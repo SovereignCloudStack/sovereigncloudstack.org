@@ -33,17 +33,17 @@ Palisadenstraße 48
 | 10:10-10:20 | **Greeting** <br/> Diego Calvo de Nó (CFO OSBA, CEO Proventa AG), Janis Kemper (Spokespersons Forum SCS-Standards, Co-Founder Syself GmbH) |
 | 10:25-10:55 | **From risk to opportunity: How geopolitical developments are influencing Europe's IT** <br/> Christoph Maier (CEO Thomas-Krenn.AG) |
 | 11:00-11:20 | **“Free as in freedom” for Europe – open source against digital dependency** <br/> Daniel Gerber (Deputy Chairman OSBA, Developer ALASCA e.V.) |
-| 11:20-11:40 | **Short break** <br/> Refresh. Energize. Engage in conversation. |
+| 11:20-11:40 | **Short break** <br/> Refresh. Energize. Engage in conversations. |
 | 11:45-13:00 | **Special program item** <br/> Details will follow... |
 | 13:00-14:00 | **Lunch break** <br/> Eat together. Recharge batteries. Make contacts. |
-| 14:05-14:30 | **“Good by VMware” – Migration of our VMware platform to OpenStack (SCS/OSISM) as a service provider** <br/> Jan Mußmann (CEO/CTO UPONU GmbH) |
+| 14:05-14:30 | **“Good bye VMware” – Migration of our VMware platform to OpenStack (SCS/OSISM) as a service provider** <br/> Jan Mußmann (CEO/CTO UPONU GmbH) |
 | 14:30-14:55 | **Multi-provider cloud architecture at BTC AG: strategy, implementation, and lessons learned** <br/> Christian Berendt (CEO OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
 | 14:55-15:20 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services GmbH), Assaf Sauer (Founder/CTO Stacktic) |
 | 15:20-15:45 | **A journey with ups and downs toward sovereignty on a large scale** <br/> Yorizon GmbH & Co. KG |
 | 15:50-16:10 | **Coffee break** <br/> Get up. Gather strength. Exchange ideas. |
 | 16:15-16:45 | **Progress on the SCS reference implementation** <br/> SCS Project Board: Kurt Garloff, Christian Berendt, Jan Schoone, Matej Feder |
-| 16:45-17:30 | **With Standardization through Collaboration and Continuity to Certification: From the work of the Forum SCS-Standards** – with awarding of the first SCS certificates! <br/> Felix Kronlage-Dammer (Head of Forum SCS-Standards) |
-| from 17:30 | **Get Together** <br/> Feast. Deepen conversations. Bring the day to a close. |
+| 16:45-17:30 | **With Standardization through Collaboration and Continuity to Certification: From the work of the Forum SCS-Standards** – with awarding of the first SCS certificates! <br/> Felix Kronlage-Dammers (Head of Forum SCS-Standards) |
+| from 17:30 | **Get Together** <br/> Feast. Deepen conversations. Close out the day. |
 
 The talks will be held in German. We offer live transcription in English.
 
