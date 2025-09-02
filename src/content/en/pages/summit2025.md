@@ -3,6 +3,9 @@ title: 'SCS Summit 2025'
 language: 'en'
 slug: 'summit2025'
 template: 'staticPage'
+meta:
+    description: 'Sovereign Cloud Stack Summit 2025 on 24th of September: Standardization. Collaboration. Continuity.'
+    og_image: '/images/summit2025-sharepic.jpg'
 ---
 
 ## Standardization. Collaboration. Continuity.
