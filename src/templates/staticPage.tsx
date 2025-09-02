@@ -14,6 +14,7 @@ type StaticPageQueryData = {
             enableAnimation?: boolean;
             meta: {
               description?: string;
+              og_title?: string;
               og_image?: string;
             }
         };
@@ -35,9 +36,11 @@ const StaticPage: React.FC<
             }}
         >
             <title>{frontmatter.title} – Sovereign Cloud Stack</title>
-            <meta property='og:title' content={frontmatter.title} />
             {frontmatter.meta?.description && (
                 <meta property='og:description' content={frontmatter.meta.description} />
+            )}
+            {frontmatter.meta?.og_title && (
+                <meta property='og:title' content={frontmatter.meta.og_title} />
             )}
             {frontmatter.meta?.og_image && (
                 <meta property='og:image' content={frontmatter.meta.og_image} />
@@ -81,6 +84,7 @@ export const query = graphql`
                 enableAnimation
                 meta {
                     description
+                    og_title
                     og_image
                 }
             }
