@@ -3,6 +3,10 @@ title: 'SCS Summit 2025'
 language: 'de'
 slug: 'summit2025'
 template: 'staticPage'
+meta:
+    description: 'Der Sovereign Cloud Stack Summit findet am 24. September 2025 statt.'
+    og_title: 'SCS Summit 2025 – Standardization. Collaboration. Continuity.'
+    og_image: 'https://sovereigncloudstack.org/images/summit2025-sharepic.jpg'
 ---
 
 ## Standardization. Collaboration. Continuity.
