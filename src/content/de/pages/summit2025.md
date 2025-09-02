@@ -42,7 +42,7 @@ Palisadenstraße 48
 | 15:20-15:45 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Yorizon GmbH & Co. KG |
 | 15:50-16:10 | **Kaffeepause** <br/> Aufrappeln. Kräfte sammeln. Ideen austauschen. |
 | 16:15-16:45 | **Progress on the SCS reference implementation** <br/> SCS Project Board: Kurt Garloff, Christian Berendt, Jan Schoone, Matej Feder |
-| 16:45-17:30 | **With Standardization through Collaboration and Continuity to Certification: Von der Arbeit des Forum SCS-Standards** – mit Verleihung der ersten SCS-Zertifikate! <br/> Felix Kronlage-Dammer (Leiter Forum SCS-Standards) |
+| 16:45-17:30 | **With Standardization through Collaboration and Continuity to Certification: Von der Arbeit des Forum SCS-Standards** – mit Verleihung der ersten SCS-Zertifikate! <br/> Felix Kronlage-Dammers (Leiter Forum SCS-Standards) |
 | ab 17:30 | **Get Together** <br/> Genießen. Gespräche vertiefen. Den Tag ausklingen lassen. |
 
 Die Vorträge werden auf Deutsch gehalten. Wir bieten eine Live-Transkription ins Englische an.
