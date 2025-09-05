@@ -45,7 +45,7 @@ Palisadenstraße 48
 | 14:55-15:20 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services GmbH), Assaf Sauer (Founder/CTO Stacktic) |
 | 15:20-15:45 | **A journey with ups and downs toward sovereignty on a large scale** <br/> Gerhard Bader (Products & Services Yorizon GmbH & Co. KG) |
 | 15:50-16:10 | **Coffee break** <br/> Get up. Gather strength. Exchange ideas. |
-| 16:15-16:45 | **Progress on the SCS reference implementation** <br/> SCS Project Board: Kurt Garloff, Christian Berendt, Matej Feder |
+| 16:15-16:45 | **Progress on the SCS reference implementation** <br/> Kurt Garloff & Christian Berendt (SCS Project Board) |
 | 16:45-17:30 | **With Standardization through Collaboration and Continuity to Certification: From the work of the Forum SCS-Standards** – with awarding of the first SCS certificates! <br/> Felix Kronlage-Dammers (Head of Forum SCS-Standards) |
 | from 17:30 | **Get Together** <br/> Feast. Deepen conversations. Close out the day. |
 
