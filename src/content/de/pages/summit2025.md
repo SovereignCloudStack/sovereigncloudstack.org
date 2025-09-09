@@ -36,7 +36,7 @@ Palisadenstraße 48
 | 10:00-10:10 | **Begrüßung & Programmvorstellung** <br/> Lisa Seifert (Projektleiterin Forum SCS-Standards), Anja Voß (Projektmanagerin DigitalHub.SH) |
 | 10:10-10:20 | **Grußwort** <br/> Diego Calvo de Nó (Finanzvorstand OSBA, CEO Proventa AG), Janis Kemper (Sprecher Forum SCS-Standards, Co-Founder Syself GmbH) |
 | 10:25-10:55 | **Vom Risiko zur Chance: Wie geopolitische Entwicklungen Europas IT beeinflussen** <br/> Christoph Maier (CEO Thomas-Krenn.AG) |
-| 11:00-11:20 | **„Frei wie in Freiheit“ für Europa – Offener Code gegen Digitale Abhängigkeit** <br/> Daniel Gerber (Stellvertretender Vorsitzender OSBA, Entwickler ALASCA e.V.) |
+| 11:00-11:20 | **„Frei wie in Freiheit“ für Europa – Offener Code gegen Digitale Abhängigkeit** <br/> Dr. Daniel Gerber (Stellvertretender Vorstandsvorsitzender OSBA, Entwickler ALASCA e.V.) |
 | 11:20-11:40 | **Kurze Pause** <br/> Erfrischen. Aktivieren. Ins Gespräch kommen. |
 | 11:45-13:00 | **Deutschlandstack – Mehr Chance als Risiko** <br/> egovernment Podcast @ SCS Summit 2025 |
 | 13:00-14:00 | **Mittagspause** <br/> Gemeinsam essen. Energie aufladen. Kontakte knüpfen. |
