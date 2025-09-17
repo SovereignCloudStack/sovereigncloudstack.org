@@ -34,11 +34,11 @@ Palisadenstraße 48
 |---|---|
 | 09:00-10:00 | **Registration & Reception** <br/> Arrive. Check in. Connect. |
 | 10:00-10:10 | **Welcome & Introduction** <br/> Lisa Seifert (Project management Forum SCS-Standards), Anja Voß (Project management DigitalHub.SH) |
-| 10:10-10:20 | **Greeting** <br/> Diego Calvo de Nó (CFO OSBA, CEO Proventa AG), Janis Kemper (Spokespersons Forum SCS-Standards, Co-Founder Syself GmbH) |
+| 10:10-10:20 | **Greeting** <br/> Diego Calvo de Nó (CFO OSBA, CEO Proventa AG), Janis Kemper (Spokesperson Forum SCS-Standards, Co-Founder Syself GmbH) |
 | 10:25-10:55 | **From risk to opportunity: How geopolitical developments are influencing Europe's IT** <br/> Christoph Maier (CEO Thomas-Krenn.AG) |
 | 11:00-11:20 | **“Free as in freedom” for Europe – open source against digital dependency** <br/> Dr. Daniel Gerber (Deputy Chairman of the Board of Directors OSBA, Developer ALASCA e.V.) |
 | 11:20-11:40 | **Short break** <br/> Refresh. Energize. Engage in conversations. |
-| 11:45-13:00 | **Deutschlandstack – More opportunity than risk** <br/> egovernment Podcast @ SCS Summit 2025 |
+| 11:45-13:00 | **Deutschlandstack – More opportunity than risk** – eGovernment Podcast @ SCS Summit 2025 <br/> Torsten Frenzel (Host & Moderator eGovernment Podcast), Julian Schauder (Technical Product Manager ZenDiS), Jutta Horstmann (Co-CEO Heinlein Gruppe), Luise Kranich (Head of Technology Strategy & Information Technology BSI), Ralph Dehner (Spokesperson Forum SCS Standards, Founder/CEO B1 Systems GmbH), Thilak Mahendran (Innovation Lead Agora Digitale Transformation gGmbH) |
 | 13:00-14:00 | **Lunch break** <br/> Eat together. Recharge batteries. Make contacts. |
 | 14:05-14:30 | **“Good by VMware” – Migration of our VMware platform to OpenStack (SCS/OSISM) as a service provider** <br/> Jan Mußmann (CEO/CTO UPONU GmbH) |
 | 14:30-14:55 | **Multi-provider cloud architecture at BTC AG: strategy, implementation, and lessons learned** <br/> Christian Berendt (CEO OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
