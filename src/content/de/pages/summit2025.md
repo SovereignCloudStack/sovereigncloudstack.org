@@ -43,7 +43,7 @@ Palisadenstraße 48
 | 14:05-14:30 | **„Good by VMware“ – Migration unserer VMware Plattform auf OpenStack (SCS/OSISM) als Serviceprovider** <br/> Jan Mußmann (Geschäftsführer/CTO UPONU GmbH) |
 | 14:30-14:55 | **Multi-Provider-Cloud-Architektur bei der BTC AG: Strategie, Implementierung und gewonnene Erkenntnisse** <br/> Christian Berendt (Geschäftsführer OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
 | 14:55-15:20 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services GmbH), Assaf Sauer (Gründer/CTO Stacktic) |
-| 15:20-15:45 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Gerhard Bader (Products & Services Yorizon GmbH & Co. KG) |
+| 15:20-15:45 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Lisa Meindl (Products & Services Yorizon GmbH & Co. KG), Michael Mayr (Gründer/CEO artcodix GmbH) |
 | 15:50-16:10 | **Kaffeepause** <br/> Aufrappeln. Kräfte sammeln. Ideen austauschen. |
 | 16:15-16:45 | **Progress on the SCS reference implementation** <br/> Kurt Garloff & Christian Berendt (SCS Project Board) |
 | 16:45-17:30 | **With Standardization through Collaboration and Continuity to Certification: Von der Arbeit des Forum SCS-Standards** – mit Verleihung der ersten SCS-Zertifikate! <br/> Felix Kronlage-Dammers (Leiter Forum SCS-Standards) |
