@@ -40,7 +40,7 @@ Palisadenstraße 48
 | 11:20-11:40 | **Short break** <br/> Refresh. Energize. Engage in conversations. |
 | 11:45-13:00 | **Deutschlandstack – More opportunity than risk** – eGovernment Podcast @ SCS Summit 2025 <br/> Torsten Frenzel (Host & Moderator eGovernment Podcast), Julian Schauder (Technical Product Manager ZenDiS), Jutta Horstmann (Co-CEO Heinlein Gruppe), Luise Kranich (Head of Technology Strategy & Information Technology BSI), Ralph Dehner (Spokesperson Forum SCS Standards, Founder/CEO B1 Systems GmbH), Thilak Mahendran (Innovation Lead Agora Digitale Transformation gGmbH) |
 | 13:00-14:00 | **Lunch break** <br/> Eat together. Recharge batteries. Make contacts. |
-| 14:05-14:30 | **“Good by VMware” – Migration of our VMware platform to OpenStack (SCS/OSISM) as a service provider** <br/> Jan Mußmann (CEO/CTO UPONU GmbH) |
+| 14:05-14:30 | **“Goodbye VMware” – Migration of our VMware platform to OpenStack (SCS/OSISM) as a service provider** <br/> Jan Mußmann (CEO/CTO UPONU GmbH) |
 | 14:30-14:55 | **Multi-provider cloud architecture at BTC AG: strategy, implementation, and lessons learned** <br/> Christian Berendt (CEO OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
 | 14:55-15:20 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services GmbH), Assaf Sauer (Founder/CTO Stacktic) |
 | 15:20-15:45 | **A journey with ups and downs toward sovereignty on a large scale** <br/> Lisa Meindl (Products & Services Yorizon GmbH & Co. KG), Michael Mayr (Founder/CEO artcodix GmbH) |
