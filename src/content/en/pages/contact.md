@@ -8,8 +8,6 @@ meta:
     og_title: ''
 ---
 
-# Contact Sovereign Cloud Stack
-
 ## Forum SCS-Standards
 
 ### Felix Kronlage-Dammers
