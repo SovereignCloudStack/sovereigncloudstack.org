@@ -13,16 +13,15 @@ meta:
 ### Felix Kronlage-Dammers
 
 E-Mail:  kronlage-dammers@osb-alliance.com  
-Telefon: +49-30-206539-205  
-Matrix:  fkronlage:matrix.org  
+Telefon: [+49-30-206539-205](tel:+4930206539205)  
+Matrix:  [@fkronlage:matrix.org](https://matrix.to/#/@fkronlage:matrix.org)  
 
 ### Lisa Seifert
 
 E-Mail:  seifert@osb-alliance.com  
-Telefon: +49-151-70594623  
-Matrix:  selis_osba:matrix.org  
+Telefon: [+49-151-70594623](tel:+4915170594623)  
+Matrix:  [@selis_osba:matrix.org](https://matrix.to/#/@selis_osba:matrix.org)  
 
-## Sovereign Cloud Stack Community Project
+## Sovereign Cloud Stack Community Projekt
 
 E-Mail: project-board@lists.scs.community
-
