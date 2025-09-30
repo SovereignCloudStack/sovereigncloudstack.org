@@ -49,6 +49,8 @@ columns:
             url: '/network'
     - title: 'Legal'
       links:
+          - label: 'Contact'
+            url: '/contact'
           - label: 'Imprint'
             url: '/imprint'
           - label: 'Privacy Policy'
