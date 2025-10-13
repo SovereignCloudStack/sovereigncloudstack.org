@@ -33,6 +33,8 @@ columns:
 #            url: '/news#press'
     - title: 'Legal'
       links:
+          - label: 'Contact'
+            url: '/contact'
           - label: 'Privacy Policy'
             url: '/privacy'
           - label: 'Imprint'
