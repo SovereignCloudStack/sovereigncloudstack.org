@@ -34,19 +34,19 @@ Palisadenstraße 48
 |---|---|
 | 09:00-10:00 | **Registrierung & Empfang** <br/> Ankommen. Einchecken. Vernetzen. |
 | 10:00-10:10 | **Begrüßung & Programmvorstellung** <br/> Lisa Seifert (Projektleiterin Forum SCS-Standards), Anja Voß (Projektmanagerin DigitalHub.SH) |
-| 10:10-10:20 | **Grußwort** <br/> Diego Calvo de Nó (Finanzvorstand OSBA, CEO Proventa AG), Janis Kemper (Sprecher Forum SCS-Standards, Co-Founder Syself GmbH) |
-| 10:25-10:55 | **Vom Risiko zur Chance: Wie geopolitische Entwicklungen Europas IT beeinflussen** <br/> Christoph Maier (CEO Thomas-Krenn.AG) |
-| 11:00-11:20 | **„Frei wie in Freiheit“ für Europa – Offener Code gegen Digitale Abhängigkeit** <br/> Dr. Daniel Gerber (Stellvertretender Vorstandsvorsitzender OSBA, Entwickler ALASCA e.V.) |
+| 10:10-10:20 | **Grußwort** <br/> Diego Calvo de Nó (Finanzvorstand OSBA, CEO Proventa AG), Janis Kemper (Sprecher Forum SCS-Standards, Co-Founder Syself GmbH) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=iIudEaQLEi0)) |
+| 10:25-10:55 | **Vom Risiko zur Chance: Wie geopolitische Entwicklungen Europas IT beeinflussen** <br/> Christoph Maier (CEO Thomas-Krenn.AG) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=jaLcuASkbl4)) |
+| 11:00-11:20 | **„Frei wie in Freiheit“ für Europa – Offener Code gegen Digitale Abhängigkeit** <br/> Dr. Daniel Gerber (Stellvertretender Vorstandsvorsitzender OSBA, Entwickler ALASCA e.V.) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=jI8goneZHf8)) |
 | 11:20-11:40 | **Kurze Pause** <br/> Erfrischen. Aktivieren. Ins Gespräch kommen. |
-| 11:45-13:00 | **Deutschlandstack – Mehr Chance als Risiko** – eGovernment Podcast @ SCS Summit 2025 <br/> Torsten Frenzel (Host & Moderator eGovernment Podcast), Julian Schauder (Technischer Produktmanager ZenDiS), Jutta Horstmann (Co-CEO Heinlein Gruppe), Luise Kranich (Abteilungsleiterin Technologiestrategie & Informationstechnik BSI), Ralph Dehner (Sprecher Forum SCS-Standards, Gründer/CEO B1 Systems GmbH), Thilak Mahendran (Innovation Lead Agora Digitale Transformation gGmbH) |
+| 11:45-13:00 | **Deutschlandstack – Mehr Chance als Risiko** – eGovernment Podcast @ SCS Summit 2025 <br/> Torsten Frenzel (Host & Moderator eGovernment Podcast), Julian Schauder (Technischer Produktmanager ZenDiS), Jutta Horstmann (Co-CEO Heinlein Gruppe), Luise Kranich (Abteilungsleiterin Technologiestrategie & Informationstechnik BSI), Ralph Dehner (Sprecher Forum SCS-Standards, Gründer/CEO B1 Systems GmbH), Thilak Mahendran (Innovation Lead Agora Digitale Transformation gGmbH) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=qXAk5NhrRok)) |
 | 13:00-14:00 | **Mittagspause** <br/> Gemeinsam essen. Energie aufladen. Kontakte knüpfen. |
-| 14:05-14:30 | **„Goodbye VMware“ – Migration unserer VMware Plattform auf OpenStack (SCS/OSISM) als Serviceprovider** <br/> Jan Mußmann (Geschäftsführer/CTO UPONU GmbH) |
-| 14:30-14:55 | **Multi-Provider-Cloud-Architektur bei der BTC AG: Strategie, Implementierung und gewonnene Erkenntnisse** <br/> Christian Berendt (Geschäftsführer OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) |
-| 14:55-15:20 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services GmbH), Assaf Sauer (Gründer/CTO Stacktic) |
-| 15:20-15:45 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Lisa Meindl (Products & Services Yorizon GmbH & Co. KG), Michael Bayr (Gründer/CEO artcodix GmbH) |
+| 14:05-14:30 | **„Goodbye VMware“ – Migration unserer VMware Plattform auf OpenStack (SCS/OSISM) als Serviceprovider** <br/> Jan Mußmann (Geschäftsführer/CTO UPONU GmbH) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=lBxbaQoqYio)) |
+| 14:30-14:55 | **Multi-Provider-Cloud-Architektur bei der BTC AG: Strategie, Implementierung und gewonnene Erkenntnisse** <br/> Christian Berendt (Geschäftsführer OSISM GmbH), Timon Schnell (General Service Owner BTC IT Services GmbH) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=abkl9ZaKeF0)) |
+| 14:55-15:20 | **Completing the Sovereign Stack** <br/> Kurt Garloff (CEO S7n Cloud Services GmbH), Assaf Sauer (Gründer/CTO Stacktic) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=1lNkM3xwVnA)) |
+| 15:20-15:45 | **Eine Reise mit Höhen und Tiefen hin zur Souveränität in großem Maßstab** <br/> Lisa Meindl (Products & Services Yorizon GmbH & Co. KG), Michael Bayr (Gründer/CEO artcodix GmbH) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=sen5ydGhGA0)) |
 | 15:50-16:10 | **Kaffeepause** <br/> Aufrappeln. Kräfte sammeln. Ideen austauschen. |
-| 16:15-16:45 | **Progress on the SCS reference implementation** <br/> Kurt Garloff & Christian Berendt (SCS Project Board) |
-| 16:45-17:30 | **With Standardization through Collaboration and Continuity to Certification: Von der Arbeit des Forum SCS-Standards** – mit Verleihung der ersten SCS-Zertifikate! <br/> Felix Kronlage-Dammers (Leiter Forum SCS-Standards) |
+| 16:15-16:45 | **Progress on the SCS reference implementation** <br/> Kurt Garloff & Christian Berendt (SCS Project Board) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=KR7hB8TxLBA)) |
+| 16:45-17:30 | **With Standardization through Collaboration and Continuity to Certification: Von der Arbeit des Forum SCS-Standards** – mit Verleihung der ersten SCS-Zertifikate! <br/> Felix Kronlage-Dammers (Leiter Forum SCS-Standards) ([Aufzeichnung bei YouTube](https://www.youtube.com/watch?v=L3aTcKYxZKU)) |
 | ab 17:30 | **Get Together** <br/> Genießen. Gespräche vertiefen. Den Tag ausklingen lassen. |
 
 Die Vorträge werden auf Deutsch gehalten. Wir bieten eine Live-Transkription ins Englische an.
