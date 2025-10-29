@@ -4,7 +4,7 @@ authors:
     - name: 'Kurt Garloff'
     - name: 'Felix Kronlage-Dammers'
 postType: announcements
-language: en
+language: de
 date: '2025-10-29'
 slug: euSovCloud
 template: 'post'
