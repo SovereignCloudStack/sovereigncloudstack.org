@@ -3,7 +3,7 @@ title: "The European Commission's Cloud Sovereignty Framework"
 authors:
     - name: 'Kurt Garloff'
     - name: 'Felix Kronlage-Dammers'
-postType: blog
+postType: announcements
 language: en
 date: '2025-10-29'
 slug: euSovCloud
