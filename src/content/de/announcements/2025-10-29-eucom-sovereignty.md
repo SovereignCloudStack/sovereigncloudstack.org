@@ -30,7 +30,7 @@ One can see some of these conversations derail and observe both attempts to conf
 ### EU Commission
 
 A few days ago, the EU commission has published their [Cloud Sovereignty Framework](https://commission.europa.eu/document/09579818-64a6-4dd5-9577-446ab6219113_en), taking a broad view on sovereignty.
-The [EuroStack](https://eurostack.eu/) iniative has done a [comparison](https://euro-stack.com/blog/2025/10/cloud-sovereignty-framework-comparison) with their own definition (LINK MISSING).
+The [EuroStack](https://eurostack.eu/) iniative has done a [comparison](https://euro-stack.com/blog/2025/10/cloud-sovereignty-framework-comparison) with their own definition.
 
 This is all good news -- while the multitude of views may look confusing at first sight, these all fit together nicely and the next section looks at this in more detail.
 
