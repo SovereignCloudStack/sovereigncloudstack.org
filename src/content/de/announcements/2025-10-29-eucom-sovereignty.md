@@ -21,7 +21,7 @@ Right from the beginning of the Sovereign Cloud Stack initiative, the urge to de
 3. Technological Sovereignty (SCS-3): The ability to freely use, study, adjust and innovate on the cloud technology. This benefits providers and thus users indirectly -- and also directly by running their own infrastructure if they determine this to be beneficial.
 4. Operational Skills (SCS-4): The documentation and transparency on operational tools and processes to build the skills to run an infrastructure platform reliably. This empowers also smaller players to be successful in running cloud platforms for their own needs or for their external clients.
 
-This was published in [the cloud report](https://www.de.digital/DIGITAL/Redaktion/DE/Digital-Gipfel/Download/2018/p2-digitale-souveraenitaet-und-kuenstliche-intelligenz.pdf) and [DuD](https://rdcu.be/cWdBJ) in 2022 and has been key to the strategic discussions in the [Sovereign Cloud Stack](https://sovereigncloudstack.org/) project.
+This was published in [the cloud report](/assets/CloudReport_2022_01_DigiSov.pdf) and [DuD](https://rdcu.be/cWdBJ) in 2022 and has been key to the strategic discussions in the [Sovereign Cloud Stack](https://sovereigncloudstack.org/) project.
 While not being formally adopted by any standardization organization, it has certainly inspired others to think beyond data sovereignty like e.g. the [govstack project](https://govstack.global/) and it was used on and off-stage in many discussions and has held up extremely well there.
 
 The current geopolitical situation does motivate organisations to carefully look into their resilience and dependencies.
