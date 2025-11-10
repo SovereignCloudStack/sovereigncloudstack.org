@@ -1,5 +1,5 @@
 ---
-title: "The European Commission's Cloud Sovereignty Framework"
+title: "Das Cloud Sovereignty Framework der EU Kommission"
 authors:
     - name: 'Kurt Garloff'
     - name: 'Felix Kronlage-Dammers'
@@ -35,7 +35,7 @@ Organisationen, die an echter IT-Resilienz interessiert sind, sollten sich nic
 
 ### EU Kommision
 
-Vor wenigen Tagen hat die Europäische Kommission ihr [Cloud Sovereignty Framework](https://commission.europa.eu/document/09579818-64a6-4dd5-9577-446ab6219113_en) veröffentlicht, der einen weiten Blick auf Souveränität wirft. Die [EuroStack-Initiative](https://eurostack.eu/) hat dazu einen [Vergleich](https://euro-stack.com/blog/2025/10/cloud-sovereignty-framework-comparison) mit ihrer eigenen Definition angestellt.
+Vor wenigen Tagen hat die Europäische Kommission ihr [Cloud Sovereignty Framework](https://commission.europa.eu/document/09579818-64a6-4dd5-9577-446ab6219113_en) veröffentlicht, welches einen weiten Blick auf Souveränität wirft. Die [EuroStack-Initiative](https://eurostack.eu/) hat dazu einen [Vergleich](https://euro-stack.com/blog/2025/10/cloud-sovereignty-framework-comparison) mit ihrer eigenen Definition angestellt.
 Das sind insgesamt gute Nachrichten – auch wenn die Vielzahl unterschiedlicher Perspektiven auf den ersten Blick verwirrend erscheinen mag, ergänzen sie sich gut. Im nächsten Abschnitt wird dies näher erläutert.
 
 ## Vergleich der Souveränitätskategorien der EU-Kommission, des SCS und von EuroStack
