@@ -14,23 +14,23 @@ template: 'post'
 
 ### Digitale Souveränität des Sovereign Cloud Stacks
 
-Von Anfang an stand bei der Sovereign Cloud Stack (SCS)-Initiative der Anspruch im Vordergrund, digitale Souveränität weiter zu fassen als die reine Datenkontrolle. Inspiriert von der [Definition des Digitalgipfels 2018](https://www.de.digital/DIGITAL/Redaktion/DE/Digital-Gipfel/Download/2018/p2-digitale-souveraenitaet-und-kuenstliche-intelligenz.pdf) und den vielfältigen Diskussionen über die Bedürfnisse von Infrastrukturnutzenden definierte das SCS-Projekt vier zentrale Bereiche digitaler Souveränität, in denen die Anforderungen systematisch zusammengefasst wurden:
+Von Anfang an stand bei der Sovereign Cloud Stack (SCS)-Initiative der Anspruch im Vordergrund, digitale Souveränität weiter zu fassen als reine Datenkontrolle. Inspiriert von der [Definition des Digitalgipfels 2018](https://www.de.digital/DIGITAL/Redaktion/DE/Digital-Gipfel/Download/2018/p2-digitale-souveraenitaet-und-kuenstliche-intelligenz.pdf) und den vielfältigen Diskussionen über die Bedürfnisse von Infrastrukturnutzenden definierte das SCS-Projekt vier zentrale Bereiche digitaler Souveränität, in denen die Anforderungen systematisch zusammengefasst wurden:
 
 1. Datensouveränität (SCS-1):  
 Die Fähigkeit, Daten sicher zu speichern und zu verarbeiten sowie die Kontrolle darüber zu behalten, mit wem sie geteilt werden. Sicherheit, Kontrollmechanismen und rechtliche Schutzmaßnahmen sind Grundvoraussetzungen, um dies zu gewährleisten.
 
 2. Wechselfähigkeit des Anbieters (SCS-2):  
-Die Vermeidung von Lock-in-Effekten durch den Einsatz von Diensten oder APIs, die nur bei einem (oder sehr wenigen) Anbietern verfügbar sind, was den Wechsel oder die Föderation von Infrastrukturanbietern erschwert.  
+Die Vermeidung von Lock-in-Effekten, die durch den Einsatz von Diensten oder APIs entstehen, die nur bei einem (oder sehr wenigen) Anbietern verfügbar sind, was den Wechsel oder die Föderation von Infrastrukturanbietern erschwert.
 
 3. Technologische Souveränität (SCS-3):  
 Die Fähigkeit, Cloud-Technologien frei zu nutzen, zu studieren, anzupassen und weiterzuentwickeln. Dies kommt den Anbietern zugute und somit indirekt auch den Nutzenden – und direkt jenen, die ihre eigene Infrastruktur betreiben, wenn sie dies als vorteilhaft erachten.
 
 4. Betriebliche Kompetenz (SCS-4):  
-Dokumentation und Transparenz im Kontext betrieblicher Werkzeuge und Prozesse, zwecks Aufbau der Fähigkeiten zum zuverlässigen Betrieb einer Infrastrukturplattform. Hierdurch  werden auch kleinere Akteure befähigt, erfolgreich Cloud-Plattformen für ihre eigenen Bedürfnisse oder für externe Kunden zu betreiben.  
+Dokumentation und Transparenz im Kontext betrieblicher Werkzeuge und Prozesse, zwecks Aufbau der Fähigkeiten zum zuverlässigen Betrieb einer Infrastrukturplattform. Hierdurch werden auch kleinere Akteure befähigt, erfolgreich Cloud-Plattformen für ihre eigenen Bedürfnisse oder für externe Kunden zu betreiben.
 
 Diese Definition wurde 2022 im [Cloud Report](/pdfs/CloudReport_2022_01_DigiSov.pdf) und in der Zeitschrift [„Datenschutz und Datensicherheit“](https://rdcu.be/cWdBJ) veröffentlicht und war entscheidend für die strategischen Diskussionen im Sovereign Cloud Stack-Projekt.
-Auch wenn sie von keiner Standardisierungsorganisation offiziell übernommen wurde, hat sie zweifellos andere inspiriert, über Datensouveränität hinauszudenken – beispielsweise das [GovStack-Projekt](https://govstack.global/). Die Definition wurde in vielen Diskussionen, sowohl auf der Bühne als auch abseits davon, genutzt und hat sich dabei als äußerst wirkungsvoll und zukunftsfähig erwiesen.
-Die aktuelle geopolitische Lage motiviert Organisationen zunehmend dazu, ihre Resilienz und Abhängigkeiten sorgfältig zu prüfen. Man kann beobachten, wie manche dieser Diskussionen aus dem Ruder laufen – etwa durch Versuche, Verwirrung zu stiften, indem behauptet wird, digitale Souveränität sei nicht eindeutig definiert, oder durch Anbieter, die versuchen, ihre bestehenden Angebote durch minimale Schutzmaßnahmen gegen ausländischen Datenzugriff als „souverän“ darzustellen („Sovereign Washing“).
+Auch wenn sie von keiner Standardisierungsorganisation offiziell übernommen wurde, hat sie zweifellos andere inspiriert, über Datensouveränität hinauszudenken – beispielsweise das [GovStack-Projekt](https://govstack.global/). Die Definition wurde in vielen Diskussionen, sowohl auf der Bühne als auch abseits davon, genutzt und hat sich dabei als äußerst wirkungsvoll und zukunftsfähig erwiesen.  
+Die aktuelle geopolitische Lage motiviert Organisationen zunehmend dazu, ihre Resilienz und Abhängigkeiten sorgfältig zu prüfen. Man kann beobachten, wie manche dieser Diskussionen aus dem Ruder laufen – etwa durch Versuche, Verwirrung zu stiften, indem behauptet wird, digitale Souveränität sei nicht eindeutig definiert, oder durch Anbieter, die versuchen, ihre bestehenden Angebote durch minimale Schutzmaßnahmen gegen ausländischen Datenzugriff als „souverän“ darzustellen („Sovereign Washing“).  
 Organisationen, die an echter IT-Resilienz interessiert sind, sollten sich nicht von solchen Marketingstrategien täuschen lassen.
 
 ### EU Kommision
@@ -58,10 +58,9 @@ Verglichen mit dem EuroStack-Kommentar legt SCS einen deutlich stärkeren Fok
 
 Die Struktur des europäischen Marktes begünstigt im Vergleich zum US-Markt kleinere Anbieter; gerade auf Plattformmärkten mit ausgeprägten Netzwerkeffekten sind europäische Akteure daher im Nachteil. Dieser Nachteil lässt sich jedoch durch enge Zusammenarbeit ausgleichen – und der mit Abstand effektivste Weg dazu ist die Kooperation im Open-Source-Bereich.
 
-Offen entwickelte Open-Source-Software verleiht ihren Nutzenden und Mitwirkenden naturgemäß ein hohes Maß an Kontrolle und Einfluss – wodurch der geografische Standort der Beitragenden oder sogar der Sitz der Trägerorganisation zu einer nachrangigen Frage wird. Anders verhält es sich bei Open-Source-Projekten, die unter der Kontrolle eines einzelnen Anbieters stehen, und selbstverständlich auch bei proprietärer Software. Dennoch würden wir uns mehr Beiträge zu Open Source von europäischer Entwicklerinnen und Entwickler wünschen – insbesondere aus großen Unternehmen, da wir hier einen deutlichen Unterschied zwischen Europa und den USA beobachten.
+Offen entwickelte Open-Source-Software verleiht ihren Nutzenden und Mitwirkenden naturgemäß ein hohes Maß an Kontrolle und Einfluss – wodurch der geografische Standort der Beitragenden oder sogar der Sitz der Trägerorganisation zu einer nachrangigen Frage wird. Anders verhält es sich bei Open-Source-Projekten, die unter der Kontrolle eines einzelnen Anbieters stehen, und selbstverständlich auch bei proprietärer Software. Dennoch würden wir uns mehr Beiträge zu Open Source von europäischer Entwicklerinnen und Entwickler wünschen – insbesondere aus großen Unternehmen, da wir hier einen deutlichen Unterschied zwischen Europa und den USA beobachten.  
 In Open-Source-Communities entsteht Einfluss durch aktive Beiträge; ein gutes Governance-Modell (wie es Open-Source-Stiftungen typischerweise fördern) achtet auf Meritokratie und die Anerkennung von Leistung innerhalb der Community. Das Risiko einer feindlichen Übernahme der Governance ist bei solchen Projekten entsprechend gering.
-
-Mit zunehmender europäischer Beteiligung ist allerdings zu erwarten, dass künftig mehr Open-Source-Projekte auch formell aus Europa heraus gesteuert werden.
+Mit zunehmender europäischer Beteiligung ist zu erwarten, dass künftig mehr Open-Source-Projekte auch formell aus Europa heraus gesteuert werden.
 
 Bei der Analyse digitaler Souveränität im Kontext von Infrastrukturlösungen betrachtet SCS das Thema systematisch aus der Perspektive der Nutzerorganisationen:
 Welche Abhängigkeiten und damit verbundenen Risiken bestehen für den Anwendenden?
@@ -73,9 +72,9 @@ Während SCS strategische und ökologische Aspekte nicht explizit abdeckt, leg
 Angesichts des ursprünglichen Ausgangspunkts der Debatte – nämlich der „Sovereign-Washing“-Marketingstrategien – sind dies vergleichsweise kleine Unterschiede, und der hohe Grad an inhaltlicher Übereinstimmung ist insgesamt sehr ermutigend.
 
 
-## Zeitenwende moment?
+## Zeitenwende-Moment?
 
-In diesem Jahr wurde viel über digitale Souveränität gesprochen - mit einer sehr variierenden Qualität des Diskurses. Da bislang keine offizielle Definition aus einer anerkannten Institution vorlag, konnten interessierte Akteure den Markt bewusst verunsichern – was die Verbreitung wirklich souveräner Lösungen deutlich bremste.
+In diesem Jahr wurde viel über digitale Souveränität gesprochen - mit einer sehr unterschiedlichen Qualität des Diskurses. Da bislang keine offizielle Definition aus einer anerkannten Institution vorlag, konnten interessierte Akteure den Markt bewusst verunsichern – was die Verbreitung wirklich souveräner Lösungen deutlich bremste.
 Mit der Definition der EU-Kommission ändert sich das nun.
 
 Man darf mit deutlicher Kritik dieser interessierten Kreise rechnen – etwa mit dem Argument, dass das Festhalten an all diesen Zielen die Digitalisierung, Innovation und Wettbewerbsfähigkeit in Europa ausbremse. Doch das ist ein gutes Zeichen: Es zeigt, dass die Kommission auf dem richtigen Weg ist. Oder, um es mit dem wohl fälschlich Mahatma Gandhi [zugeschriebenen Zitat](https://www.snopes.com/fact-check/first-they-ignore-you/) zu sagen:
@@ -86,11 +85,11 @@ Das Cloud Sovereignty Framework der EU-Kommission wird allerdings nur dann Wi
 Das aktuelle Vergabeverfahren der Generaldirektion DIGIT (DG DIGIT) folgt genau diesem Ansatz:
 In ihrem [Vergabeverfahren über 180 Millionen Euro](https://commission.europa.eu/news-and-media/news/commission-moves-forward-cloud-sovereignty-eur-180-million-tender-2025-10-10_en) liegt der Fokus auf digitaler Souveränität, wobei Mindestanforderungen für die Erreichung der Souveränitätsziele aus dem Rahmenwerk festgelegt sind.
 
-er Auftrag kann an bis zu vier Anbieter vergeben werden – was die Resilienz erhöht, auch wenn keine explizite Kompatibilität untereinander vorgeschrieben ist.
+Der Auftrag kann an bis zu vier Anbieter vergeben werden – was die Resilienz erhöht, auch wenn keine explizite Kompatibilität untereinander vorgeschrieben ist.
 Das ist eine äußerst positive Entwicklung für all jene Gemeinschaften, Organisationen und Unternehmen, die in den vergangenen Jahren Zeit und Ressourcen in den Aufbau souveräner Strukturen investiert haben – in Infrastrukturkompetenz, Open-Source-Projekte und allgemein in Plattformen, die Nutzende befähigen, anstatt sie einzusperren.
 Es besteht berechtigte Hoffnung, dass ihre Arbeit nun endlich Anerkennung findet.
 Es ist zu erwarten, dass andere öffentliche Einrichtungen, die ähnliche Ziele wie die EU-Kommission verfolgen, sowie private Unternehmen mit hohen Anforderungen an Resilienz, diesem Beispiel folgen werden - indem sie sich auf das Rahmenwerk beziehen, Resilienzkriterien stärker gewichten und Mindestanforderungen in ihren Ausschreibungen verankern.
 Die Zeit, in der Europa die neuen geopolitischen Realitäten ignorieren konnte, sollte endgültig vorbei sein!
 Wenn das geschieht, könnten wir rückblickend auf diesen Moment als den Punkt schauen,
-an dem ein neuer Markt für wirklich souveräne IT-Infrastrukturplattformen entstanden ist ein echter „Zeitenwende“-Moment.
+an dem ein neuer Markt für wirklich souveräne IT-Infrastrukturplattformen entstanden ist, ein echter „Zeitenwende“-Moment.
 Und wir hoffen sehr, dass es so kommt.
